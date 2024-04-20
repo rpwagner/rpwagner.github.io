@@ -59,6 +59,17 @@ Hallman, E. J. , O'Shea, B. W., Burns, J. O., Norman, M. L., Harkness, R., **Wag
 
 These videos are a good summary of my activities outside of astrophysics research and provide a chronology of my professional development.
 
+Jump to year:
+* [2023](#2023)
+* [2020](#2020)
+* [2019](#2019)
+* [2018](#2018)
+* [2016](#2016)
+* [2015](#2015)
+* [2014](#2014)
+* [2013](#2013)
+* [2011](#2011)
+
 ### 2023
 
 **Trusted CI Webinar:** [*Using the Trusted CI Framework to Create the CFDE Cybersecurity Program*](https://youtu.be/qztKv0JVFKc)
