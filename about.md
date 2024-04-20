@@ -50,26 +50,45 @@ Jump to:
 Charbonneau, A. L., Brady, A., Czajkowski, K., Aluvathingal, J., Canchi, S., Carter, R., Chard, K., Clarke, D. J. B., Crabtree, J., Creasy, H. H., D'Arcy, M., Felix, V., Giglio, M., Gingrich, A., Harris, R. M., Hodges, T. K., Ifeonu, O., Jeon, M., Kropiwnicki, E., Lim, M. C. W., Liming, R. L., Lumian, J., Mahurkar, A. A., Mandal, M., Munro, J. B., Nadendla, S., Richter, R., Romano, C., Rocca-Serra, P., Schor, M., Schuler, R. E., Tangmunarunkit, H., Waldrop, A., Williams, C., Word, K., Sansone, S., Ma'ayan, A., **Wagner, R.**, Foster, I., Kesselman, C., Brown, C. T., White, O.<br>
 *GigaScience*, 11, giac105 (2022) [doi:10.1093/gigascience/giac105](https://doi.org/10.1093/gigascience/giac105)
 
-Petrie, R., Denvil, S., Ames, S., Levavasseur, G., Fiore, S., Allen, C., Antonio, F., Berger, K., Bretonni'ere, P.-A., Cinquini, L., Dart, E., Dwarakanath, P., Druken, K., Evans, B., Franchist ́eguy, L., Gardoll, S., Gerbier, E., Greenslade, M., Hassell, D., Iwi, A., Juckes, M., Kindermann, S., Lacinski, L., Mirto, M., Nasser, A. B., Nassisi, P., Nienhouse, E., Nikonov, S., Nuzzo, A., Richards, C., Ridzwan, S., Rixen, M., Serradell, K., Snow, K., Stephens, A., Stockhause, M., Vahlenkamp, H., **Wagner, R.**, *Coordinating an operational data distribution network for CMIP6 data*, *Geoscientific Model Development*, 14, 629–644 (2021) [doi:10.5194/gmd-14-629-2021](https://doi.org/10.5194/gmd-14-629-2021)
+**Coordinating an operational data distribution network for CMIP6 data**<br>
+Petrie, R., Denvil, S., Ames, S., Levavasseur, G., Fiore, S., Allen, C., Antonio, F., Berger, K., Bretonni'ere, P.-A., Cinquini, L., Dart, E., Dwarakanath, P., Druken, K., Evans, B., Franchist ́eguy, L., Gardoll, S., Gerbier, E., Greenslade, M., Hassell, D., Iwi, A., Juckes, M., Kindermann, S., Lacinski, L., Mirto, M., Nasser, A. B., Nassisi, P., Nienhouse, E., Nikonov, S., Nuzzo, A., Richards, C., Ridzwan, S., Rixen, M., Serradell, K., Snow, K., Stephens, A., Stockhause, M., Vahlenkamp, H., **Wagner, R.**<br>
+*Geoscientific Model Development*, 14, 629–644 (2021) [doi:10.5194/gmd-14-629-2021](https://doi.org/10.5194/gmd-14-629-2021)
 
-Brummel-Smith, C., Bryan, G., Butsky, I., Corlies, L., Emerick, A., Forbes, J., Fujimoto, Y., Goldbaum, N., Grete, P., Hummels, C., Kim, J., Koh, D., Li, M., Li, Y., Li, X., OShea, B., Peeples, M., Regan, J., Salem, M., Schmidt, W., Simpson, C., Smith, B., Tumlinson, J., Turk, M., Wise, J., Abel, T., Bordner, J., Cen, R., Collins, D.,  Crosby, B., Edelmann, P., Hahn, O., Harkness, R., Harper-Clark, E., Kong, S., Kritsuk, A., Kuhlen, M., Larrue, J., Lee, E., Meece, G., Norman, M., Oishi, J., Paschos, P., Peruta, C., Razoumov, A.,
- Reynolds, D., Silvia, D., Skillman, S., Skory, S., So, G., Tasker, E., **Wagner, R.**, Wang, P., Xu, H., Zhao, F., *ENZO: An Adaptive Mesh Refinement Code for Astrophysics (Version 2.6)*, *JOSS*, 4, 1636 (2019) [doi:10.21105/joss.01636](https://doi.org/10.21105/joss.01636)
+**ENZO: An Adaptive Mesh Refinement Code for Astrophysics (Version 2.6)**<br>
+Brummel-Smith, C., Bryan, G., Butsky, I., Corlies, L., Emerick, A., Forbes, J., Fujimoto, Y., Goldbaum, N., Grete, P., Hummels, C., Kim, J., Koh, D., Li, M., Li, Y., Li, X., OShea, B., Peeples, M., Regan, J., Salem, M., Schmidt, W., Simpson, C., Smith, B., Tumlinson, J., Turk, M., Wise, J., Abel, T., Bordner, J., Cen, R., Collins, D.,  Crosby, B., Edelmann, P., Hahn, O., Harkness, R., Harper-Clark, E., Kong, S., Kritsuk, A., Kuhlen, M., Larrue, J., Lee, E., Meece, G., Norman, M., Oishi, J., Paschos, P., Peruta, C., Razoumov, A., Reynolds, D., Silvia, D., Skillman, S., Skory, S., So, G., Tasker, E., **Wagner, R.**, Wang, P., Xu, H., Zhao, F.<br>
+*JOSS*, 4, 1636 (2019) [doi:10.21105/joss.01636](https://doi.org/10.21105/joss.01636)
 
-Kritsuk, A. G., **Wagner, R.**, Norman, M. L., *Energy Cascade and Scaling in Supersonic Isothermal Turbulence*, *JFM*, 729, R1 (2013) [doi:10.1017/jfm.2013.342](https://doi.org/10.1017/jfm.2013.342)
+**Energy Cascade and Scaling in Supersonic Isothermal Turbulence**<br>
+Kritsuk, A. G., **Wagner, R.**, Norman, M. L.<br>
+*JFM*, 729, R1 (2013) [doi:10.1017/jfm.2013.342](https://doi.org/10.1017/jfm.2013.342)
 
-**Wagner, R.**, Falkovich, G., Kritsuk, A. G., Norman, M. L., *Flux Correlations in Supersonic Isothermal Turbulence*, *JFM*, 713, 482 (2012) [doi:10.1017/jfm.2012.470](https://doi.org/10.1017/jfm.2012.470)
+**Flux Correlations in Supersonic Isothermal Turbulence**<br>
+**Wagner, R.**, Falkovich, G., Kritsuk, A. G., Norman, M. L.<br>
+*JFM*, 713, 482 (2012) [doi:10.1017/jfm.2012.470](https://doi.org/10.1017/jfm.2012.470)
 
-Lemze, D., **Wagner, R.**, Rephaeli, Y., Sadeh, S., Norman, M. L., Barkana, R., Broadhurst, T., Postman, M., Ford, H., *Profiles of Dark Matter Velocity Anisotropy in Simulated Clusters*, *ApJ*, 752, 141 (2012) [doi:10.1088/0004-637X/752/2/141](https://doi.org/10.1088/0004-637X/752/2/141)
+**Profiles of Dark Matter Velocity Anisotropy in Simulated Clusters**
+Lemze, D., **Wagner, R.**, Rephaeli, Y., Sadeh, S., Norman, M. L., Barkana, R., Broadhurst, T., Postman, M., Ford, H.<br>
+*ApJ*, 752, 141 (2012) [doi:10.1088/0004-637X/752/2/141](https://doi.org/10.1088/0004-637X/752/2/141)
 
-Lemze, D., Rephaeli, Y., Barkana, R., Broadhurst, T., **Wagner, R.**, Norman, M. L., *Quantifying the Collisionless Nature of Dark Matter and Galaxies in A1689*, *ApJ*, 728, 40 (2011) [doi:10.1088/0004-637X/728/1/40](https://doi.org/10.1088/0004-637X/728/1/40)
+**Quantifying the Collisionless Nature of Dark Matter and Galaxies in A1689**<br>
+Lemze, D., Rephaeli, Y., Barkana, R., Broadhurst, T., **Wagner, R.**, Norman, M. L.<br>
+*ApJ*, 728, 40 (2011) [doi:10.1088/0004-637X/728/1/40](https://doi.org/10.1088/0004-637X/728/1/40)
 
-Kritsuk, A. G., Norman, M. L., **Wagner, R.**, *On the Density Distribution in Star-forming Interstellar Clouds*, *ApJL*, 727, L20 (2011) [doi:10.1088/2041-8205/727/1/L20](https://doi.org/10.1088/2041-8205/727/1/L20)
+**On the Density Distribution in Star-forming Interstellar Clouds**<br>
+Kritsuk, A. G., Norman, M. L., **Wagner, R.**<br>
+*ApJL*, 727, L20 (2011) [doi:10.1088/2041-8205/727/1/L20](https://doi.org/10.1088/2041-8205/727/1/L20)
 
-Vazza, F., Brunetti, G., Kritsuk, A., **Wagner, R.**, Gheller, C., Norman, M., *Turbulent Motions and Shocks Waves in Galaxy Clusters simulated with AMR*, *A\&A*, 504, 33 (2009) [doi:10.1051/0004-6361/200912535](https://doi.org/10.1051/0004-6361/200912535)
+**Turbulent Motions and Shocks Waves in Galaxy Clusters simulated with AMR**<br>
+Vazza, F., Brunetti, G., Kritsuk, A., **Wagner, R.**, Gheller, C., Norman, M.<br>
+*A\&A*, 504, 33 (2009) [doi:10.1051/0004-6361/200912535](https://doi.org/10.1051/0004-6361/200912535)
 
-Kritsuk, A. G., Norman, M. L., Padoan, P., **Wagner, R.**, *The Statistics of Supersonic Isothermal Turbulence*, *ApJ*, 665, 416 (2007) [doi:10.1086/519443](https://doi.org/10.1086/519443)
+**The Statistics of Supersonic Isothermal Turbulence**<br>
+Kritsuk, A. G., Norman, M. L., Padoan, P., **Wagner, R.**<br>
+*ApJ*, 665, 416 (2007) [doi:10.1086/519443](https://doi.org/10.1086/519443)
 
-Hallman, E. J. , O'Shea, B. W., Burns, J. O., Norman, M. L., Harkness, R., **Wagner, R.**, *The Santa Fe Light Cone Simulation Project: I. Confusion and the WHIM in Upcoming Sunyaev-Zel'dovich Effect Surveys*, *ApJ*, 671, 27 (2007) [doi:10.1086/522912](https://doi.org/10.1086/522912)
+**The Santa Fe Light Cone Simulation Project: I. Confusion and the WHIM in Upcoming Sunyaev-Zel'dovich Effect Surveys**<br>
+Hallman, E. J. , O'Shea, B. W., Burns, J. O., Norman, M. L., Harkness, R., **Wagner, R.**<br>
+*ApJ*, 671, 27 (2007) [doi:10.1086/522912](https://doi.org/10.1086/522912)
 
 ## Book Chapters & Conference Proceedings
 
