@@ -1,4 +1,4 @@
-# Rick Wagner
+# About Rick Wagner
 
 Leader in research cyberinfrastructure with almost 20 years of experience enabling science. Continuous history of supporting researchers across several disciplines, funding agencies, and organizations using a variety of technologies. Engages stakeholders and seeks out diverse viewpoints to create optimal solutions. Open-source contributor at both the code and leadership levels.
 
@@ -7,7 +7,7 @@ Jump to:
 * [Employment](#employment)
 * [Synergistic Activities](#synergistic-activities)
 * [Publications](#publications)
-* [Book Chapters & Conference Proceedings](#null)
+* [Book Chapters & Conference Proceedings](#book-chapters--conference-proceedings)
 * [Videos](#videos)
 
 ## Education
@@ -24,7 +24,7 @@ Jump to:
 
 | Dates | Role and Organization |
 | --- | --- |
-| 2023-10 – Current | **Chief Technology Officer**<br>[San Diego Supercomputer Center](https://www.sdsc.edu)<br>[University Of California San Diego](https://ucsd.edu)<br> La Jolla, CA |
+| 2023-10 – Current | **[Chief Technology Officer](https://sdsc.edu/News%20Items/PR20230927_CTO_Rick_Wagner.html)**<br>[San Diego Supercomputer Center](https://www.sdsc.edu)<br>[University Of California San Diego](https://ucsd.edu)<br> La Jolla, CA |
 | 2020-05 – 2023-09 | **Principal Systems Integration Engineer**<br>[Research IT](https://research-it.ucsd.edu)<br>[University Of California San Diego](https://ucsd.edu)<br> La Jolla, CA |
 | 2016-09 - 2020-05 | **Globus Professional Services Manager**<br>[Globus](https://www.globus.org)<br>[University Of Chicago](https://www.uchicago.edu)<br> Chicago, IL |
 | 2012-06 - 2016-09 | **HPC Systems Manager**<br>[San Diego Supercomputer Center](https://www.sdsc.edu)<br>[University Of California San Diego](https://ucsd.edu)<br> La Jolla, CA |
@@ -65,6 +65,48 @@ Vazza, F., Brunetti, G., Kritsuk, A., **Wagner, R.**, Gheller, C., Norman, M., *
 Kritsuk, A. G., Norman, M. L., Padoan, P., **Wagner, R.**, *The Statistics of Supersonic Isothermal Turbulence*, *ApJ*, 665, 416 (2007) [doi:10.1086/519443](https://doi.org/10.1086/519443)
 
 Hallman, E. J. , O'Shea, B. W., Burns, J. O., Norman, M. L., Harkness, R., **Wagner, R.**, *The Santa Fe Light Cone Simulation Project: I. Confusion and the WHIM in Upcoming Sunyaev-Zel'dovich Effect Surveys*, *ApJ*, 671, 27 (2007) [doi:10.1086/522912](https://doi.org/10.1086/522912)
+
+## Book Chapters & Conference Proceedings
+
+Ananthakrishnan, R., Chard, K., D'Arcy, M., Kesselman, C., Foster, I., McCollam, B., Pruyne, J., Rocca-Serra, P., Schuler, R., **Wagner, R.**, *An Open Ecosystem for Pervasive Use of Persistent Identifiers*, *PEARC '20*, 1, 99, (2020)
+ 
+Allcock, W. E., Allen, B. S., Ananthakrishnan, R., Blaiszik, B., Chard, K., Chard, R., Foster, I., Lacinski, L., Papka, M. E., **Wagner, R.**, *Petrel: A Programmatically Accessible Research Data Service*, *PEARC '19*, 49, 1 (2019)
+ 
+Strande, S. M., Cai, H., Cooper, T., Flammer, K., Irving, C., von Laszewski, G., Majumdar, A., Mishin, D., Papadopoulos, P., Pfeiffer, W., Sinkovits, R. S., Tatineni, M., **Wagner, R.**, Wang, F., Wilkins-Diehr, N., Wolter, N., Norman, M. L., *Comet: Tales from the long tail: Two years in and 10,000 users later*, *PEARC17*, 38, 1 (2017)
+ 
+Cianfrocco, M. A., Wong-Barnum, M., Youn, C., **Wagner, R.**, Leschziner, A., *COSMIC2: A science gateway for cryo-electron microscopy structure determination*, *PEARC17*, 22, 1 (2017)
+
+**Wagner, R.**, Papadopoulos, P., Mishin, D., Cooper, T., Tatineni, M., von Laszewski, G., Wang, F., *User Managed Virtual Clusters in Comet*, *XSEDE '16*, (2016)
+
+Kritsuk, A. G., **Wagner, R.**, Norman, M. L., *Scaling in Supersonic Isothermal Turbulence*, *ASP Conference Series*, 498, 16 (2015)
+
+Lockwood, G. K., Tatineni, M., **Wagner, R.**, *Storage utilization in the long tail of science*, *XSEDE '15*, 32, 1 (2015)
+
+Kreuzer, P., Hufnagel, D., Dykstra, D., Gutsche, O., Tadel, M., Sfiligoi, I., Letts, J., Würthwein, F., McCrea, A., Bockelman, B., Fajardo, E., Linares, L., **Wagner, R.**, Konstantinov, P., Blumenfeld, B., Bradley, D., The CMS Collaboration, *Opportunistic Resource Usage in CMS*, *Journal of Physics: Conference Series*, 513, 6 (2014)
+
+Moore, R. L., Baru, C., Baxter, D., Fox, G. C., Majumdar, A.,  Papadopoulos, P., Pfeiffer, W., Sinkovits, R. S., Strande, S., Tatineni, M., **Wagner, R.**, Wilkins-Diehr, N., Norman, M. L., *Gateways to Discovery: Cyberinfrastructure for the Long Tail of Science*, *XSEDE '14*, 39, 1 (2014)
+
+Lockwood, G. K., Tatineni, M., **Wagner, R.**, *SR-IOV: Performance Benefits for Virtualized Interconnects*, *XSEDE '14*, 47, 1 (2014)
+
+**Wagner, R.**, Tatineni, M., Hocks, E., Yoshimoto, K., Sakai, S., Norman, M. L., Bockelman, B., Sfiligoi, I., Tadel, M., Letts, J., Würthwein, F., Bauerdick, L. A., *Using Gordon to accelerate LHC science*,
+*XSEDE '13*, 59, 1 (2013)
+
+Tatineni, M., Greenberg, J., **Wagner, R.**, Hocks, E., Irving, C., *Hadoop deployment and performance on Gordon data intensive supercomputer*, *XSEDE '13*, 45, 1 (2013)
+
+Strande, S. M., Cicotti, P., Sinkovits, R. S., Young, W. S., **Wagner, R.**, Tatineni, M., Hocks, E., Snavely, A., Norman, M., *Gordon: design, performance, and experiences deploying and supporting a data intensive supercomputer*, *XSEDE '12*, 3, 1 (2012)
+
+Hereld, M., Insley, J. A., Olson, E. C., Papka, M. E., Vishwanath, V., Norman, M. L., **Wagner, R.**, *Exploring large data over wide area networks*,
+*Large Data Analysis and Visualization (LDAV)*, 2011, 133 (2011)
+
+**Wagner, R.**, *A RESTful catalog for simulations*, *Mem. Soc. Astron. Ital.*, 80, 365 (2009)
+
+Kritsuk, A. G., Padoan, P., **Wagner, R.**, Norman, M. L., *Scaling Laws and Intermittency in Highly Compressible Turbulence*, *AIP Conference Proceedings*, 932, 393 (2007)
+
+**Wagner, R.**, Norman, M.L., *Theory SkyNode*, *ASP Conference Series*, 382, 289 (2007)
+
+Norman, M. L., Bryan, G. L., Harkness, R., Bordner, J., Reynolds, D., O'Shea, B., **Wagner, R.**, *Simulating Cosmological Evolution with Enzo*, Petascale Computing: Algorithms and Applications, Ed. D. Bader, CRC Press LLC (2007)
+
+Kritsuk, A. G., **Wagner, R.**, Norman, M. L., Padoan, P., *High resolution simulations of supersonic turbulence in molecular clouds*, *ASP Conference Series*, 359, 84 (2006)
 
 ## Videos
 
