@@ -68,13 +68,13 @@ Hallman, E. J. , O'Shea, B. W., Burns, J. O., Norman, M. L., Harkness, R., **Wag
 
 ## Book Chapters & Conference Proceedings
 
-Ananthakrishnan, R., Chard, K., D'Arcy, M., Kesselman, C., Foster, I., McCollam, B., Pruyne, J., Rocca-Serra, P., Schuler, R., **Wagner, R.**, *An Open Ecosystem for Pervasive Use of Persistent Identifiers*, *PEARC '20*, 1, 99, (2020)
+Ananthakrishnan, R., Chard, K., D'Arcy, M., Kesselman, C., Foster, I., McCollam, B., Pruyne, J., Rocca-Serra, P., Schuler, R., **Wagner, R.**, *An Open Ecosystem for Pervasive Use of Persistent Identifiers*, *PEARC '20*, 1, 99, (2020) [doi:10.1145/3311790.3396660](https://doi.org/10.1145/3311790.3396660)
  
-Allcock, W. E., Allen, B. S., Ananthakrishnan, R., Blaiszik, B., Chard, K., Chard, R., Foster, I., Lacinski, L., Papka, M. E., **Wagner, R.**, *Petrel: A Programmatically Accessible Research Data Service*, *PEARC '19*, 49, 1 (2019)
+Allcock, W. E., Allen, B. S., Ananthakrishnan, R., Blaiszik, B., Chard, K., Chard, R., Foster, I., Lacinski, L., Papka, M. E., **Wagner, R.**, *Petrel: A Programmatically Accessible Research Data Service*, *PEARC '19*, 49, 1 (2019) [doi:10.1145/3332186.3332241](https://doi.org/10.1145/3332186.3332241)
  
-Strande, S. M., Cai, H., Cooper, T., Flammer, K., Irving, C., von Laszewski, G., Majumdar, A., Mishin, D., Papadopoulos, P., Pfeiffer, W., Sinkovits, R. S., Tatineni, M., **Wagner, R.**, Wang, F., Wilkins-Diehr, N., Wolter, N., Norman, M. L., *Comet: Tales from the long tail: Two years in and 10,000 users later*, *PEARC17*, 38, 1 (2017)
+Strande, S. M., Cai, H., Cooper, T., Flammer, K., Irving, C., von Laszewski, G., Majumdar, A., Mishin, D., Papadopoulos, P., Pfeiffer, W., Sinkovits, R. S., Tatineni, M., **Wagner, R.**, Wang, F., Wilkins-Diehr, N., Wolter, N., Norman, M. L., *Comet: Tales from the long tail: Two years in and 10,000 users later*, *PEARC17*, 38, 1 (2017) [doi:10.1145/3093338.3093383](https://doi.org/10.1145/3093338.3093383)
  
-Cianfrocco, M. A., Wong-Barnum, M., Youn, C., **Wagner, R.**, Leschziner, A., *COSMIC2: A science gateway for cryo-electron microscopy structure determination*, *PEARC17*, 22, 1 (2017)
+Cianfrocco, M. A., Wong-Barnum, M., Youn, C., **Wagner, R.**, Leschziner, A., *COSMIC2: A science gateway for cryo-electron microscopy structure determination*, *PEARC17*, 22, 1 (2017) [doi:10.1145/3093338.3093390](https://doi.org/10.1145/3093338.3093390)
 
 **Wagner, R.**, Papadopoulos, P., Mishin, D., Cooper, T., Tatineni, M., von Laszewski, G., Wang, F., *User Managed Virtual Clusters in Comet*, *XSEDE '16*, (2016) [doi:10.1145/2949550.2949555](https://doi.org/10.1145/2949550.2949555)
 
