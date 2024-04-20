@@ -76,37 +76,36 @@ Strande, S. M., Cai, H., Cooper, T., Flammer, K., Irving, C., von Laszewski, G.,
  
 Cianfrocco, M. A., Wong-Barnum, M., Youn, C., **Wagner, R.**, Leschziner, A., *COSMIC2: A science gateway for cryo-electron microscopy structure determination*, *PEARC17*, 22, 1 (2017)
 
-**Wagner, R.**, Papadopoulos, P., Mishin, D., Cooper, T., Tatineni, M., von Laszewski, G., Wang, F., *User Managed Virtual Clusters in Comet*, *XSEDE '16*, (2016)
+**Wagner, R.**, Papadopoulos, P., Mishin, D., Cooper, T., Tatineni, M., von Laszewski, G., Wang, F., *User Managed Virtual Clusters in Comet*, *XSEDE '16*, (2016) [doi:10.1145/2949550.2949555](https://doi.org/10.1145/2949550.2949555)
 
-Kritsuk, A. G., **Wagner, R.**, Norman, M. L., *Scaling in Supersonic Isothermal Turbulence*, *ASP Conference Series*, 498, 16 (2015)
+Kritsuk, A. G., **Wagner, R.**, Norman, M. L., *Scaling in Supersonic Isothermal Turbulence*, *ASP Conference Series*, 498, 16 (2015) [URL](https://www.aspbooks.org/a/volumes/article_details/?paper_id=37420)
 
-Lockwood, G. K., Tatineni, M., **Wagner, R.**, *Storage utilization in the long tail of science*, *XSEDE '15*, 32, 1 (2015)
+Lockwood, G. K., Tatineni, M., **Wagner, R.**, *Storage utilization in the long tail of science*, *XSEDE '15*, 32, 1 (2015) [doi:10.1145/2792745.2792777](https://doi.org/10.1145/2792745.2792777)
 
-Kreuzer, P., Hufnagel, D., Dykstra, D., Gutsche, O., Tadel, M., Sfiligoi, I., Letts, J., Würthwein, F., McCrea, A., Bockelman, B., Fajardo, E., Linares, L., **Wagner, R.**, Konstantinov, P., Blumenfeld, B., Bradley, D., The CMS Collaboration, *Opportunistic Resource Usage in CMS*, *Journal of Physics: Conference Series*, 513, 6 (2014)
+Kreuzer, P., Hufnagel, D., Dykstra, D., Gutsche, O., Tadel, M., Sfiligoi, I., Letts, J., Würthwein, F., McCrea, A., Bockelman, B., Fajardo, E., Linares, L., **Wagner, R.**, Konstantinov, P., Blumenfeld, B., Bradley, D., The CMS Collaboration, *Opportunistic Resource Usage in CMS*, *Journal of Physics: Conference Series*, 513, 6 (2014) [doi:10.1088/1742-6596/513/6/062028](https://doi.org/10.1088/1742-6596/513/6/062028)
 
-Moore, R. L., Baru, C., Baxter, D., Fox, G. C., Majumdar, A.,  Papadopoulos, P., Pfeiffer, W., Sinkovits, R. S., Strande, S., Tatineni, M., **Wagner, R.**, Wilkins-Diehr, N., Norman, M. L., *Gateways to Discovery: Cyberinfrastructure for the Long Tail of Science*, *XSEDE '14*, 39, 1 (2014)
+Moore, R. L., Baru, C., Baxter, D., Fox, G. C., Majumdar, A.,  Papadopoulos, P., Pfeiffer, W., Sinkovits, R. S., Strande, S., Tatineni, M., **Wagner, R.**, Wilkins-Diehr, N., Norman, M. L., *Gateways to Discovery: Cyberinfrastructure for the Long Tail of Science*, *XSEDE '14*, 39, 1 (2014) [doi:10.1145/2616498.2616540](https://doi.org/10.1145/2616498.2616540)
 
-Lockwood, G. K., Tatineni, M., **Wagner, R.**, *SR-IOV: Performance Benefits for Virtualized Interconnects*, *XSEDE '14*, 47, 1 (2014)
+Lockwood, G. K., Tatineni, M., **Wagner, R.**, *SR-IOV: Performance Benefits for Virtualized Interconnects*, *XSEDE '14*, 47, 1 (2014) [doi:10.1145/2616498.2616537](https://doi.org/10.1145/2616498.2616537)
 
-**Wagner, R.**, Tatineni, M., Hocks, E., Yoshimoto, K., Sakai, S., Norman, M. L., Bockelman, B., Sfiligoi, I., Tadel, M., Letts, J., Würthwein, F., Bauerdick, L. A., *Using Gordon to accelerate LHC science*,
-*XSEDE '13*, 59, 1 (2013)
+**Wagner, R.**, Tatineni, M., Hocks, E., Yoshimoto, K., Sakai, S., Norman, M. L., Bockelman, B., Sfiligoi, I., Tadel, M., Letts, J., Würthwein, F., Bauerdick, L. A., *Using Gordon to accelerate LHC science*, *XSEDE '13*, 59, 1 (2013) [doi:10.1145/2484762.2484834](https://doi.org/10.1145/2484762.2484834)
 
-Tatineni, M., Greenberg, J., **Wagner, R.**, Hocks, E., Irving, C., *Hadoop deployment and performance on Gordon data intensive supercomputer*, *XSEDE '13*, 45, 1 (2013)
+Tatineni, M., Greenberg, J., **Wagner, R.**, Hocks, E., Irving, C., *Hadoop deployment and performance on Gordon data intensive supercomputer*, *XSEDE '13*, 45, 1 (2013) [doi:10.1145/2484762.2484831](https://doi.org/10.1145/2484762.2484831)
 
-Strande, S. M., Cicotti, P., Sinkovits, R. S., Young, W. S., **Wagner, R.**, Tatineni, M., Hocks, E., Snavely, A., Norman, M., *Gordon: design, performance, and experiences deploying and supporting a data intensive supercomputer*, *XSEDE '12*, 3, 1 (2012)
+Strande, S. M., Cicotti, P., Sinkovits, R. S., Young, W. S., **Wagner, R.**, Tatineni, M., Hocks, E., Snavely, A., Norman, M., *Gordon: design, performance, and experiences deploying and supporting a data intensive supercomputer*, *XSEDE '12*, 3, 1 (2012) [doi:10.1145/2335755.2335789](https://doi.org/10.1145/2335755.2335789)
 
 Hereld, M., Insley, J. A., Olson, E. C., Papka, M. E., Vishwanath, V., Norman, M. L., **Wagner, R.**, *Exploring large data over wide area networks*,
-*Large Data Analysis and Visualization (LDAV)*, 2011, 133 (2011)
+*Large Data Analysis and Visualization (LDAV)*, 2011, 133 (2011) [doi:10.1109/LDAV.2011.6092335](https://doi.org/10.1109/LDAV.2011.6092335)
 
-**Wagner, R.**, *A RESTful catalog for simulations*, *Mem. Soc. Astron. Ital.*, 80, 365 (2009)
+**Wagner, R.**, *A RESTful catalog for simulations*, *Mem. Soc. Astron. Ital.*, 80, 365 (2009) [URL](http://sait.oat.ts.astro.it/MSAIt800209/index.html)
 
-Kritsuk, A. G., Padoan, P., **Wagner, R.**, Norman, M. L., *Scaling Laws and Intermittency in Highly Compressible Turbulence*, *AIP Conference Proceedings*, 932, 393 (2007)
+Kritsuk, A. G., Padoan, P., **Wagner, R.**, Norman, M. L., *Scaling Laws and Intermittency in Highly Compressible Turbulence*, *AIP Conference Proceedings*, 932, 393 (2007) [doi:10.1063/1.2778991](https://doi.org/10.1063/1.2778991)
 
-**Wagner, R.**, Norman, M.L., *Theory SkyNode*, *ASP Conference Series*, 382, 289 (2007)
+**Wagner, R.**, Norman, M.L., *Theory SkyNode*, *ASP Conference Series*, 382, 289 (2007) [URL](https://www.aspbooks.org/a/volumes/article_details/?paper_id=27950)
 
-Norman, M. L., Bryan, G. L., Harkness, R., Bordner, J., Reynolds, D., O'Shea, B., **Wagner, R.**, *Simulating Cosmological Evolution with Enzo*, Petascale Computing: Algorithms and Applications, Ed. D. Bader, CRC Press LLC (2007)
+Norman, M. L., Bryan, G. L., Harkness, R., Bordner, J., Reynolds, D., O'Shea, B., **Wagner, R.**, *Simulating Cosmological Evolution with Enzo*, Petascale Computing: Algorithms and Applications, Ed. D. Bader, CRC Press LLC (2007) [doi:10.1201/9781584889106](https://doi.org/10.1201/9781584889106)
 
-Kritsuk, A. G., **Wagner, R.**, Norman, M. L., Padoan, P., *High resolution simulations of supersonic turbulence in molecular clouds*, *ASP Conference Series*, 359, 84 (2006)
+Kritsuk, A. G., **Wagner, R.**, Norman, M. L., Padoan, P., *High resolution simulations of supersonic turbulence in molecular clouds*, *ASP Conference Series*, 359, 84 (2006) [URL](https://www.aspbooks.org/a/volumes/article_details/?paper_id=3749)
 
 ## Videos
 
