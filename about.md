@@ -1,11 +1,13 @@
 # Rick Wagner
 
-Leader in research cyberinfrastructure with almost 20 years of experience enabling science. Continuous history of supporting researchers across several disciplines, funding agencies, and organizations using a variety of technologies. Engages users and seeks out diverse viewpoints to create optimal solutions. Open-source contributor at both the code and leadership levels.
+Leader in research cyberinfrastructure with almost 20 years of experience enabling science. Continuous history of supporting researchers across several disciplines, funding agencies, and organizations using a variety of technologies. Engages stakeholders and seeks out diverse viewpoints to create optimal solutions. Open-source contributor at both the code and leadership levels.
 
 Jump to:
 * [Education](#education)
 * [Employment](#employment)
+* [Synergistic Activities](#synergistic-activities)
 * [Publications](#publications)
+* [Book Chapters & Conference Proceedings](#null)
 * [Videos](#videos)
 
 ## Education
@@ -29,6 +31,15 @@ Jump to:
 | 2010-01 - 2012-06 | **HPC Systems Engineer**<br>[San Diego Supercomputer Center](https://www.sdsc.edu)<br>[University Of California San Diego](https://ucsd.edu)<br> La Jolla, CA |
 | 1999-02 - 2014-12 | **IT Manager**<br>[Sterling Corporate Custom Elevator Interiors](https://www.stercorp.com)<br> National City, CA |
 | 2005-01 - 2010-01| **Graduate Student Researcher**<br>[Department of Physics](https://physics.ucsd.edu)<br>[University Of California San Diego](https://ucsd.edu)<br> La Jolla, CA |
+
+## Synergistic Activities
+
+| Dates | Role and Organization |
+| --- | --- |
+| 2023-01 – Current | **Security Representative**<br>[Project Jupyter Software Steering Council](https://jupyter.org/about#software-steering-council-members) | 2022-01 – Current | **Member**<br>[InCommon Community Trust and Assurance Board](https://incommon.org/community/leadership/)
+| 2020-01 – Current | **President**<br>Herschel Condominiums Association, La Jolla, CA | 
+| 2021-01 – 2021-12 | **Fellow**<br>[Trusted CI Fellows Program](https://www.trustedci.org/fellows/about) |
+| 2016-10 – 2018-04 | **Secretary**<br>[Open Scalable File Systems, Inc.](https://www.opensfs.org) |
 
 ## Publications
 
@@ -105,8 +116,6 @@ Jump to year: [2023](#2023), [2020](#2020), [2019](#2019), [2018](#2018), [2016]
 
 ### 2011
 
-These videos were the results of an amazing collaboration between the [San Diego Supercomputer Center](https://www.sdsc.edu), the [Argonne Leadership Computing Facility](https://www.alcf.anl.gov), and the [Oak Ridge Leadership Computing Facility](https://www.olcf.ornl.gov). We were fortunate to be able to share these during [SC11](http://sc11.supercomputing.org) and at a [CineGrid](https://en.wikipedia.org/wiki/CineGrid) Workshop.
-
 **CineGrid International Workshop 2011:** [*Direct Numerical Simulations of Cosmological Reionization – Field Comparison: Density*](https://youtu.be/QNc9GTzogUo). This video was rendered in stereoscopic 4K and presented in 3D in the [Qualcomm Institute Auditorium](https://qi.ucsd.edu/services/event-spaces/).
 
 **insideHPC:** [*Research Team Does Galactic Volume Difference Rendering at SC11*](https://youtu.be/ZqA1WbeZ6pk)
@@ -118,4 +127,3 @@ These videos were the results of an amazing collaboration between the [San Diego
 **insideHPC:** [*Direct Numerical Simulations of Cosmological Reionizatoin: Field Comparison:Temperature*](https://youtu.be/hDh4NB31e2s)
 
 **The Swiss HPC Service Provider Community:** [*Discussion Between SDSC and Argonne About the Challenges of Visualizing Large Data Sets*](https://youtu.be/gkAn8ZhKHHw)
-
