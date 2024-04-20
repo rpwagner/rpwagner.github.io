@@ -1,5 +1,13 @@
 # Rick Wagner
 
+Leader in research cyberinfrastructure with almost 20 years of experience enabling science. Continuous history of supporting researchers across several disciplines, funding agencies, and organizations using a variety of technologies. Engages users and seeks out diverse viewpoints to create optimal solutions. Open-source contributor at both the code and leadership levels.
+
+Jump to:
+* [Education](#education)
+* [Employment](#employment)
+* [Publications](#publications)
+* [Videos](#videos)
+
 ## Education
 
 | Year | Degree |
@@ -46,3 +54,66 @@ Vazza, F., Brunetti, G., Kritsuk, A., **Wagner, R.**, Gheller, C., Norman, M., *
 Kritsuk, A. G., Norman, M. L., Padoan, P., **Wagner, R.**, *The Statistics of Supersonic Isothermal Turbulence*, *ApJ*, 665, 416 (2007) [doi:10.1086/519443](https://doi.org/10.1086/519443)
 
 Hallman, E. J. , O'Shea, B. W., Burns, J. O., Norman, M. L., Harkness, R., **Wagner, R.**, *The Santa Fe Light Cone Simulation Project: I. Confusion and the WHIM in Upcoming Sunyaev-Zel'dovich Effect Surveys*, *ApJ*, 671, 27 (2007) [doi:10.1086/522912](https://doi.org/10.1086/522912)
+
+## Videos
+
+These videos are a good summary of my activities outside of astrophysics research and provide a chronology of my professional development.
+
+### 2023
+
+**Trusted CI Webinar:** [*Using the Trusted CI Framework to Create the CFDE Cybersecurity Program*](https://youtu.be/qztKv0JVFKc)
+
+### 2020
+
+**JupyterCon 2020:** [*The Streetwise Guide to JupyterHub Security*](https://youtu.be/CLnL5Vyh3Mc), where I overproduced a tutorial during the COVID lockdown.
+
+### 2019
+
+**Jupyter for Science User Facilities and High Performance Computing:** [*Advancing Jupyter, Kubernetes, and Globus at ALCF*](https://youtu.be/eFWQWyej9Rw)
+
+**Singularity User Group - SDSC 2019:** [*Managing large-scale cosmology simulations with Parsl and Singularity*](https://youtu.be/nJ5B1cUscSs), with a prescient opening about my eventual return to SDSC.
+
+### 2018
+
+**LUG 2018:** [*What is Globus?*](https://youtu.be/ebcCJZrlc9Q), where you can [jump to about 18 minutes in](https://youtu.be/ebcCJZrlc9Q&t=1107) for one of the smoother Q&As I've delivered.
+
+### 2016
+
+**MVAPICH User Group Meeting 2016:** [User Managed Virtual Clusters in Comet](https://youtu.be/47M7gjhIz88), where my boss pretended during my introduction that he didn't know I was about to go to work at U. Chicago.
+
+**LUG 2016:** [*Lustre Data Mover: Because File Systems are Rooted Trees and `rsync` Must Die*](https://youtu.be/PySy-PwqFB4), with the conclusion: "..if you find something, we are going to fix it, because this is our users' data, and that's about the most precious thing that I have. I can lose compute nodes any time, but if I lose your data, I lose your work." Even if this didn't take over the storage world by storm, I'm still very proud of this work developing a simple architecture to solve a complex problem.
+
+**Dell Sponsored for SDSC:** [*Comet: No Research Barriers*](https://youtu.be/W5U_J2EQ8FY)
+
+**Dell and Intel Sponsored for SDSC**: [*SDSC Big Data*](https://youtu.be/5u4ZQqMpoZ8)
+
+### 2015
+
+**LUG 2015:** [*SDSC’s Data Oasis Gen II: ZFS, 40GbE, and Replication*](https://youtu.be/Bjwi-R35WJM)
+
+### 2014
+
+**insideHPC:** [*SDSC Encourages Young Minds with Gaming at SC14*](https://youtu.be/iIo0vr7_hyg)
+
+### 2013
+
+**insideHPC:** [*SDSC Wraps the Long-Tail Death Match at SC13*](https://youtu.be/fKtsq284UmA)
+
+**insideHPC:** [*Rasberry Pi Cluster to Power Gaming Competition in SDSC Booth at SC13*](https://youtu.be/J623LLNU1oc)
+
+### 2011
+
+These videos were the results of an amazing collaboration between the [San Diego Supercomputer Center](https://www.sdsc.edu), the [Argonne Leadership Computing Facility](https://www.alcf.anl.gov), and the [Oak Ridge Leadership Computing Facility](https://www.olcf.ornl.gov). We were fortunate to be able to share these during [SC11](http://sc11.supercomputing.org) and at a [CineGrid](https://en.wikipedia.org/wiki/CineGrid) Workshop.
+
+**CineGrid International Workshop 2011:** [*Direct Numerical Simulations of Cosmological Reionization – Field Comparison: Density*](https://youtu.be/QNc9GTzogUo). This video was rendered in stereoscopic 4K and presented in 3D in the [Qualcomm Institute Auditorium](https://qi.ucsd.edu/services/event-spaces/).
+
+**insideHPC:** [*Research Team Does Galactic Volume Difference Rendering at SC11*](https://youtu.be/ZqA1WbeZ6pk)
+
+**insideHPC:** [*Direct Numerical Simulations of Cosmological Reionization: Field Comparison: Ionization Fraction*](https://youtu.be/5dOt0IaRY4U)
+
+**insideHPC:** [*Direct Numerical Simulations of Cosmological Reionization: Field Comparison: Density*](https://youtu.be/vL9hrmf7eps)
+
+**insideHPC:** [*Direct Numerical Simulations of Cosmological Reionizatoin: Field Comparison:Temperature*](https://youtu.be/hDh4NB31e2s)
+
+**The Swiss HPC Service Provider Community:** [*Discussion Between SDSC and Argonne About the Challenges of Visualizing Large Data Sets*](https://youtu.be/gkAn8ZhKHHw)
+
