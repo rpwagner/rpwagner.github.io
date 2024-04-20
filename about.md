@@ -68,7 +68,9 @@ Hallman, E. J. , O'Shea, B. W., Burns, J. O., Norman, M. L., Harkness, R., **Wag
 
 ## Book Chapters & Conference Proceedings
 
-Ananthakrishnan, R., Chard, K., D'Arcy, M., Kesselman, C., Foster, I., McCollam, B., Pruyne, J., Rocca-Serra, P., Schuler, R., **Wagner, R.**, *An Open Ecosystem for Pervasive Use of Persistent Identifiers*, *PEARC '20*, 1, 99, (2020) [doi:10.1145/3311790.3396660](https://doi.org/10.1145/3311790.3396660)
+Saint, N., Chard, R., Vescovi, R., Pruyne, J., Blaiszik, B., Ananthakrishnan, R., Papka, M., **Wagner, R.**, Chard, K., Foster, I., *Active Research Data Management with the Django Globus Portal Framework*, *PEARC '23: Practice and Experience in Advanced Research Computing*, 1, 43 (2023) [doi:10.1145/3569951.3593597](https://doi.org/10.1145/3569951.3593597)
+
+Ananthakrishnan, R., Chard, K., D'Arcy, M., Kesselman, C., Foster, I., McCollam, B., Pruyne, J., Rocca-Serra, P., Schuler, R., **Wagner, R.**, *An Open Ecosystem for Pervasive Use of Persistent Identifiers*, *PEARC '20*, 1, 99 (2020) [doi:10.1145/3311790.3396660](https://doi.org/10.1145/3311790.3396660)
  
 Allcock, W. E., Allen, B. S., Ananthakrishnan, R., Blaiszik, B., Chard, K., Chard, R., Foster, I., Lacinski, L., Papka, M. E., **Wagner, R.**, *Petrel: A Programmatically Accessible Research Data Service*, *PEARC '19*, 49, 1 (2019) [doi:10.1145/3332186.3332241](https://doi.org/10.1145/3332186.3332241)
  
