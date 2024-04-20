@@ -208,7 +208,7 @@ Jump to year: [2023](#2023), [2020](#2020), [2019](#2019), [2018](#2018), [2016]
 
 ### 2015
 
-**LUG 2015:** [*SDSC’s Data Oasis Gen II: ZFS, 40GbE, and Replication*](https://youtu.be/Bjwi-R35WJM)
+**LUG 2015:** [*SDSC’s Data Oasis Gen II: ZFS, 40GbE, and Replication*](https://youtu.be/Bjwi-R35WJM). This is very likely the most technical talk I've ever given, involving manual InfiniBand routing, diving into Linux kernel performance counters, processor SIMD instructions, patching Lustre and ZFS, and driving peak performance from disk to client over two distinct networking technologies with a parallel file system.
 
 ### 2014
 
