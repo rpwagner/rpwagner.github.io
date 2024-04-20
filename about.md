@@ -14,11 +14,11 @@ Jump to:
 
 | Year | Degree |
 | --- | --- |
-| **2023** | **Doctor of Philosophy: Physics**<br>University of California San Diego - La Jolla, CA<br>**Dissertation:** [*Fast Measurements of Two-Point Statistics in Simulations of Supersonic Isothermal Turbulence*](https://escholarship.org/uc/item/145620xx)<br>**Advisor:** Professor Michael L. Norman |
-| **2009** | **Candidate of Philosophy: Physics**<br>University of California San Diego - La Jolla, CA |
-| **2006** | **Master of Science: Physics**<br>University of California San Diego - La Jolla, CA |
-| **2004** | **Bachelor of Science: Physics**<br>University of California San Diego - La Jolla, CA<br>*magna cum laude*<br>Physical Sciences Dean's Undergraduate Award for Excellence, 2004 |
-| **2002** | **Associate of Arts: Transfer Studies**<br>San Diego Mesa College - San Diego, CA<br>*with honors* |
+| **2023** | **Doctor of Philosophy: Physics**<br>[University Of California San Diego](https://ucsd.edu)<br>La Jolla, CA<br>**Dissertation:** [*Fast Measurements of Two-Point Statistics in Simulations of Supersonic Isothermal Turbulence*](https://escholarship.org/uc/item/145620xx)<br>**Advisor:** Professor Michael L. Norman |
+| **2009** | **Candidate of Philosophy: Physics**<br>[University Of California San Diego](https://ucsd.edu)<br>La Jolla, CA |
+| **2006** | **Master of Science: Physics**<br>[University Of California San Diego](https://ucsd.edu)<br>La Jolla, CA |
+| **2004** | **Bachelor of Science: Physics**<br>[University Of California San Diego](https://ucsd.edu)<br>La Jolla, CA<br>*magna cum laude*<br>Physical Sciences Dean's Undergraduate Award for Excellence, 2004 |
+| **2002** | **Associate of Arts: Transfer Studies**<br>[San Diego Mesa College](https://www.sdmesa.edu)<br>San Diego, CA<br>*with honors* |
 
 ## Employment
 
@@ -36,8 +36,8 @@ Jump to:
 
 | Dates | Role and Organization |
 | --- | --- |
-| 2023-01 – Current | **Security Representative**<br>[Project Jupyter Software Steering Council](https://jupyter.org/about#software-steering-council-members) | 2022-01 – Current | **Member**<br>[InCommon Community Trust and Assurance Board](https://incommon.org/community/leadership/)
-| 2020-01 – Current | **President**<br>Herschel Condominiums Association, La Jolla, CA | 
+| 2023-01 – Current | **Security Representative**<br>[Project Jupyter Software Steering Council](https://jupyter.org/about#software-steering-council-members) | 2022-01 – Current | **Member**<br>[InCommon Community Trust and Assurance Board](https://incommon.org/community/leadership/) |
+| 2020-01 – Current | **President**<br>Herschel Condominiums Association<br>La Jolla, CA |
 | 2021-01 – 2021-12 | **Fellow**<br>[Trusted CI Fellows Program](https://www.trustedci.org/fellows/about) |
 | 2016-10 – 2018-04 | **Secretary**<br>[Open Scalable File Systems, Inc.](https://www.opensfs.org) |
 
@@ -127,3 +127,4 @@ Jump to year: [2023](#2023), [2020](#2020), [2019](#2019), [2018](#2018), [2016]
 **insideHPC:** [*Direct Numerical Simulations of Cosmological Reionizatoin: Field Comparison:Temperature*](https://youtu.be/hDh4NB31e2s)
 
 **The Swiss HPC Service Provider Community:** [*Discussion Between SDSC and Argonne About the Challenges of Visualizing Large Data Sets*](https://youtu.be/gkAn8ZhKHHw)
+
