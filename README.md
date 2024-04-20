@@ -1,2 +1,4 @@
-# rpwagner.github.io
-Main GitHub Pages repo
+# Rick Wagner
+
+* [About](about.md)
+* [Notes](notes/)
