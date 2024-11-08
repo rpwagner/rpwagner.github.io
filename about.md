@@ -92,6 +92,14 @@ Hallman, E. J. , O'Shea, B. W., Burns, J. O., Norman, M. L., Harkness, R., **Wag
 
 ## Book Chapters & Conference Proceedings
 
+**Cheap and FAIR: Building a Serverless Research Data Repository**<br>
+Zonca, A., **Wagner, R.**<br>
+*Gateways 2024* (2024) [https://doi.org/10.5281/zenodo.13887292](https://doi.org/10.5281/zenodo.13887292)
+
+**Cheap and FAIR: A Serverless Research Data Repository for the Next Generation Cosmic Microwave Background Experiment**<br>
+Zonca, A., **Wagner, R.**, Borrill, J.<br>
+*PEARC '24: Practice and Experience in Advanced Research Computing 2024: Human Powered Computing*, 61, 1-4 (2024) [https://doi.org/10.1145/3626203.367055](https://doi.org/10.1145/3626203.367055)
+
 **Active Research Data Management with the Django Globus Portal Framework**<br>
 Saint, N., Chard, R., Vescovi, R., Pruyne, J., Blaiszik, B., Ananthakrishnan, R., Papka, M., **Wagner, R.**, Chard, K., Foster, I.<br>
 *PEARC '23: Practice and Experience in Advanced Research Computing*, 1, 43 (2023) [doi:10.1145/3569951.3593597](https://doi.org/10.1145/3569951.3593597)
@@ -179,6 +187,8 @@ These videos are a good summary of my activities outside of astrophysics researc
 Jump to year: [2024](#2024), [2023](#2023), [2020](#2020), [2019](#2019), [2018](#2018), [2016](#2016), [2015](#2015), [2014](#2014), [2013](#2013), [2011](#2011)
 
 ### 2024
+
+**Science Gateways Community** [*Gateways 2024 Tutorial: Cheap and FAIR: Building a Serverless Research Data Repository*](https://youtu.be/EYrGxGtmUH0?si=p3wH2TNtJ4-fUdLf)
 
 **Travis Talks Tech:** [*Super Compute, AI, Physics, and Motorcycles? - with Rick Wagner*](https://youtu.be/vzyUe6wkdPs)
 
