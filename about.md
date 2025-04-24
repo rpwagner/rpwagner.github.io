@@ -38,8 +38,10 @@ Jump to:
 
 | Dates | Role and Organization |
 | --- | --- |
-| 2023-01 – Current | **Security Representative**<br>[Project Jupyter Software Steering Council](https://jupyter.org/about#software-steering-council-members) |
+| 2025-01 – Current | **Member**<br>[Project Jupyter Executive Council](https://jupyter.org/about#executive-council-members) |
+| 2025-01 – Current | **Member**<br>[Jupyter Foundation Governing Board](https://jupyter.org/governance/people.html#jupyter-foundation-governing-board) |
 | 2022-01 – Current | **Member**<br>[InCommon Community Trust and Assurance Board](https://incommon.org/community/leadership/) |
+| 2023-01 – 2024-12 | **Security Representative**<br>[Project Jupyter Software Steering Council](https://jupyter.org/about#software-steering-council-members) |
 | 2020-01 – Current | **President**<br>Herschel Condominiums Association<br>La Jolla, CA |
 | 2021-01 – 2021-12 | **Fellow**<br>[Trusted CI Fellows Program](https://www.trustedci.org/fellows/about) |
 | 2016-10 – 2018-04 | **Secretary**<br>[Open Scalable File Systems, Inc.](https://www.opensfs.org) |
