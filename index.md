@@ -4,6 +4,8 @@ title: About Rick Wagner
 
 Leader in research cyberinfrastructure with almost 20 years of experience enabling science. Continuous history of supporting researchers across several disciplines, funding agencies, and organizations using a variety of technologies. Engages stakeholders and seeks out diverse viewpoints to create optimal solutions. Open-source contributor at both the code and leadership levels.
 
+ORCiD: [0000-0003-1291-5876](https://orcid.org/0000-0003-1291-5876)
+
 Jump to:
 * [Education](#education)
 * [Employment](#employment)
