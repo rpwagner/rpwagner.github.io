@@ -4,8 +4,8 @@ title: About Rick Wagner
 
 Leader in research cyberinfrastructure with almost 20 years of experience enabling science. Continuous history of supporting researchers across several disciplines, funding agencies, and organizations using a variety of technologies. Engages stakeholders and seeks out diverse viewpoints to create optimal solutions. Open-source contributor at both the code and leadership levels.
 
-* ORCiD: [https://orcid.org/0000-0003-1291-5876](https://orcid.org/0000-0003-1291-5876)
-* LinkedIn: [http://linkedin.com/in/rpwagner/](http://linkedin.com/in/rpwagner/)
+* [ORCiD (0000-0003-1291-5876)](https://orcid.org/0000-0003-1291-5876)
+* [LinkedIn (rpwagner)](http://linkedin.com/in/rpwagner/)
 
 Jump to:
 * [Education](#education)
@@ -44,8 +44,8 @@ Jump to:
 | 2025-01 – Current | **Member**<br>[Project Jupyter Executive Council](https://jupyter.org/about#executive-council-members) |
 | 2025-01 – Current | **Member**<br>[Jupyter Foundation Governing Board](https://jupyter.org/governance/people.html#jupyter-foundation-governing-board) |
 | 2022-01 – Current | **Member**<br>[InCommon Community Trust and Assurance Board](https://incommon.org/community/leadership/) |
-| 2023-01 – 2024-12 | **Security Representative**<br>[Project Jupyter Software Steering Council](https://jupyter.org/about#software-steering-council-members) |
 | 2020-01 – Current | **President**<br>Herschel Condominiums Association<br>La Jolla, CA |
+| 2023-01 – 2024-12 | **Security Representative**<br>[Project Jupyter Software Steering Council](https://jupyter.org/about#software-steering-council-members) |
 | 2021-01 – 2021-12 | **Fellow**<br>[Trusted CI Fellows Program](https://www.trustedci.org/fellows/about) |
 | 2016-10 – 2018-04 | **Secretary**<br>[Open Scalable File Systems, Inc.](https://www.opensfs.org) |
 
