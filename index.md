@@ -8,13 +8,13 @@ Leader in research cyberinfrastructure with almost 20 years of experience enabli
 * [LinkedIn (rpwagner)](http://linkedin.com/in/rpwagner/)
 
 Jump to:
-* [Education](#Education)
-* [Employment](#Employment)
-* [Synergistic Activities](#Synergistic-Activities)
-* [Publications](#Publications)
-  * [Journal Articles](#Journal-Articles)
-  * [Book Chapters & Conference Proceedings](#Book-Chapters-&-Conference-Proceedings)
-* [Press & Videos](#Press-&-Videos)
+* [Education](#education)
+* [Employment](#employment)
+* [Synergistic Activities](#synergistic-activities)
+* [Publications](#publications)
+  * [Journal Articles](#journal-articles)
+  * [Book Chapters & Conference Proceedings](#book-chapters--conference-proceedings)
+* [Press & Videos](#press--videos)
 
 ## Education
 
@@ -192,7 +192,7 @@ Kritsuk, A. G., **Wagner, R.**, Norman, M. L., Padoan, P.<br>
 
 This is a list of blog posts and news articles about me, or that I've contributed to, and videos of presentations, interviews, and training I've participated in. Overall, these are a good summary of my activities outside of astrophysics research and provide a chronology of my professional development.
 
-Jump to year: [2025](#2025), [2024](#2024), [2023](#2023), [2020](#2020), [2019](#2019), [2018](#2018), [2016](#2016), [2015](#2015), [2014](#2014), [2013](#2013), [2011](#2011)
+Jump to year: [2025](#2025), [2024](#2024), [2023](#2023), [2022](#2022), [2020](#2020), [2019](#2019), [2018](#2018), [2016](#2016), [2015](#2015), [2014](#2014), [2013](#2013), [2011](#2011)
 
 ## 2025
 
@@ -212,10 +212,19 @@ Jump to year: [2025](#2025), [2024](#2024), [2023](#2023), [2020](#2020), [2019]
 
 ### 2023
 
+**UCSD Press Release** [*San Diego Supercomputer Center Announces New Lead of Technology*](https://today.ucsd.edu/story/san-diego-supercomputer-center-announces-new-lead-of-technology) (Article)
+
 **Jupyter Blog** [*European Commission Funds Jupyter Bug Bounty Program*](https://blog.jupyter.org/european-commission-funds-jupyter-bug-bounty-program-b7b96f9831e6) (Article)
 
 **Trusted CI Webinar:** [*Using the Trusted CI Framework to Create the CFDE Cybersecurity Program*](https://youtu.be/qztKv0JVFKc) (Video)
 
+### 2022
+
+**UCSD Press Release** [*Three California Universities Commit to Growing a Community of Cyberinfrastructure Professionals*](https://today.ucsd.edu/story/three-california-universities-commit-to-growing-a-community-of-cyberinfrastructure-professionals) (Article)
+
+**Jupyter Blog** [*Requiring 2FA for Jupyter GitHub Organizations*](https://blog.jupyter.org/requiring-2fa-for-jupyter-github-organizations-ad15507da9b1) (Article)
+
+**Globus User Story** [*Accelerating Research at UCSD with Globus*](https://www.globus.org/user-stories/accelerating-research-UCSD) (Article)
 
 ### 2020
 
@@ -233,6 +242,8 @@ Jump to year: [2025](#2025), [2024](#2024), [2023](#2023), [2020](#2020), [2019]
 
 ### 2016
 
+**OpenSFS Press Release** [*OpenSFS Reinvents Itself with a Focus on User Needs*](https://www.opensfs.org/press-releases/opensfs-reinvents-itself-with-a-focus-on-user-needs/) (Article)
+
 **MVAPICH User Group Meeting 2016:** [User Managed Virtual Clusters in Comet](https://youtu.be/47M7gjhIz88), where my boss pretended during my introduction that he didn't know I was about to go to work at U. Chicago. (Video)
 
 **LUG 2016:** [*Lustre Data Mover: Because File Systems are Rooted Trees and `rsync` Must Die*](https://youtu.be/PySy-PwqFB4), with the conclusion: "..if you find something, we are going to fix it, because this is our users' data, and that's about the most precious thing that I have. I can lose compute nodes any time, but if I lose your data, I lose your work." Even if this didn't take over the storage world by storm, I'm still very proud of this work developing a simple architecture to solve a complex problem. (Video)
@@ -243,6 +254,12 @@ Jump to year: [2025](#2025), [2024](#2024), [2023](#2023), [2020](#2020), [2019]
 
 ### 2015
 
+**insideHPC** [*Seagate SSDs Boost Analytics on Comet Supercomputer*](https://insidehpc.com/2015/11/seagate-ssds-boost-analytics-on-comet-supercomputer/) (Article)
+
+**UCSD Guardian** [*Supercomputers, Raspberry Pis and Purple Puppies*](https://ucsdguardian.org/2015/11/09/supercomputers-raspberry-pis-and-purple-puppies/) (Article)
+
+**The Next Platform** [*Improving HPC File System Performance and Data Integrity*](https://www.nextplatform.com/2015/10/13/improving-hpc-file-system-performance-and-data-integrity/) (Article)
+
 **LUG 2015:** [*SDSC’s Data Oasis Gen II: ZFS, 40GbE, and Replication*](https://youtu.be/Bjwi-R35WJM). This is very likely the most technical talk I've ever given, involving manual InfiniBand routing, diving into Linux kernel performance counters, processor SIMD instructions, patching Lustre and ZFS, and driving peak performance from disk to client over two distinct networking technologies with a parallel file system. (Video)
 
 ### 2014
@@ -252,6 +269,8 @@ Jump to year: [2025](#2025), [2024](#2024), [2023](#2023), [2020](#2020), [2019]
 ### 2013
 
 **insideHPC:** [*SDSC Wraps the Long-Tail Death Match at SC13*](https://youtu.be/fKtsq284UmA) (Video)
+
+**UCSD Press Release** [*SDSC Uses Meteor Raspberry Pi Cluster to Teach Parallel Computing*](https://today.ucsd.edu/story/sdsc_uses_meteor_raspberry_pi_cluster_to_teach_parallel_computing) (Article)
 
 **insideHPC:** [*Rasberry Pi Cluster to Power Gaming Competition in SDSC Booth at SC13*](https://youtu.be/J623LLNU1oc) (Video)
 
