@@ -8,13 +8,13 @@ Leader in research cyberinfrastructure with almost 20 years of experience enabli
 * [LinkedIn (rpwagner)](http://linkedin.com/in/rpwagner/)
 
 Jump to:
-* [Education](#education)
-* [Employment](#employment)
-* [Synergistic Activities](#synergistic-activities)
-* [Publications](#publications)
-* [Book Chapters & Conference Proceedings](#book-chapters--conference-proceedings)
-* [Press](#press)
-* [Videos](#videos)
+* [Education](#Education)
+* [Employment](#Employment)
+* [Synergistic Activities](#Synergistic-Activities)
+* [Publications](#Publications)
+  * [Journal Articles](#Journal-Articles)
+  * [Book Chapters & Conference Proceedings](#Book-Chapters-&-Conference-Proceedings)
+* [Press & Videos](#Press-&-Videos)
 
 ## Education
 
@@ -51,6 +51,8 @@ Jump to:
 | 2016-10 – 2018-04 | **Secretary**<br>[Open Scalable File Systems, Inc.](https://www.opensfs.org) |
 
 ## Publications
+
+### Journal Articles
 
 **Making Common Fund data more findable: catalyzing a data ecosystem**<br>
 Charbonneau, A. L., Brady, A., Czajkowski, K., Aluvathingal, J., Canchi, S., Carter, R., Chard, K., Clarke, D. J. B., Crabtree, J., Creasy, H. H., D'Arcy, M., Felix, V., Giglio, M., Gingrich, A., Harris, R. M., Hodges, T. K., Ifeonu, O., Jeon, M., Kropiwnicki, E., Lim, M. C. W., Liming, R. L., Lumian, J., Mahurkar, A. A., Mandal, M., Munro, J. B., Nadendla, S., Richter, R., Romano, C., Rocca-Serra, P., Schor, M., Schuler, R. E., Tangmunarunkit, H., Waldrop, A., Williams, C., Word, K., Sansone, S., Ma'ayan, A., **Wagner, R.**, Foster, I., Kesselman, C., Brown, C. T., White, O.<br>
@@ -96,7 +98,7 @@ Kritsuk, A. G., Norman, M. L., Padoan, P., **Wagner, R.**<br>
 Hallman, E. J. , O'Shea, B. W., Burns, J. O., Norman, M. L., Harkness, R., **Wagner, R.**<br>
 *ApJ*, 671, 27 (2007) [doi:10.1086/522912](https://doi.org/10.1086/522912)
 
-## Book Chapters & Conference Proceedings
+### Book Chapters & Conference Proceedings
 
 **Cheap and FAIR: Building a Serverless Research Data Repository**<br>
 Zonca, A., **Wagner, R.**<br>
@@ -186,77 +188,84 @@ Petascale Computing: Algorithms and Applications, Ed. D. Bader, CRC Press LLC (2
 Kritsuk, A. G., **Wagner, R.**, Norman, M. L., Padoan, P.<br>
 *ASP Conference Series*, 359, 84 (2006) [URL](https://www.aspbooks.org/a/volumes/article_details/?paper_id=3749)
 
-## Press
+## Press & Videos
 
-Blog posts and news articles about me, or that I've contributed to.
+This is a list of blog posts and news articles about me, or that I've contributed to, and videos of presentations, interviews, and training I've participated in. Overall, these are a good summary of my activities outside of astrophysics research and provide a chronology of my professional development.
 
-**Trusted CI Blog** [*Trusted CI Member Spotlight: Rick Wagner*](https://blog.trustedci.org/2025/04/trusted-ci-member-spotlight-rick-wagner.html)
+Jump to year: [2025](#2025), [2024](#2024), [2023](#2023), [2020](#2020), [2019](#2019), [2018](#2018), [2016](#2016), [2015](#2015), [2014](#2014), [2013](#2013), [2011](#2011)
 
-## Videos
+## 2025
 
-These videos are a good summary of my activities outside of astrophysics research and provide a chronology of my professional development.
+**Trusted CI Blog** [*Trusted CI Member Spotlight: Rick Wagner*](https://blog.trustedci.org/2025/04/trusted-ci-member-spotlight-rick-wagner.html) (Article)
 
-Jump to year: [2024](#2024), [2023](#2023), [2020](#2020), [2019](#2019), [2018](#2018), [2016](#2016), [2015](#2015), [2014](#2014), [2013](#2013), [2011](#2011)
+**SDSC Press Release** [*SDSC's Rick Wagner Takes a Leading Role in Project Jupyter*](https://www.sdsc.edu/news/2025/PR20250414-jupyter.html), also posted in [HPCwire](https://www.hpcwire.com/off-the-wire/sdscs-rick-wagner-takes-a-leading-role-in-project-jupyter/) (Article)
+
+**Jupyter Blog** [*JupyterCon 2025!*](https://blog.jupyter.org/jupytercon-2025-c654a31a584e) (Article)
+
+**Jupyter Blog** [*Project Jupyter’s 2025 Executive Council Elections*](https://blog.jupyter.org/project-jupyters-2025-executive-council-elections-605b183ec64c) (Article)
 
 ### 2024
 
-**Science Gateways Community** [*Gateways 2024 Tutorial: Cheap and FAIR: Building a Serverless Research Data Repository*](https://youtu.be/EYrGxGtmUH0?si=p3wH2TNtJ4-fUdLf)
+**Science Gateways Community** [*Gateways 2024 Tutorial: Cheap and FAIR: Building a Serverless Research Data Repository*](https://youtu.be/EYrGxGtmUH0?si=p3wH2TNtJ4-fUdLf) (Video)
 
-**Travis Talks Tech:** [*Super Compute, AI, Physics, and Motorcycles? - with Rick Wagner*](https://youtu.be/vzyUe6wkdPs)
+**Travis Talks Tech:** [*Super Compute, AI, Physics, and Motorcycles? - with Rick Wagner*](https://youtu.be/vzyUe6wkdPs) (Video)
 
 ### 2023
 
-**Trusted CI Webinar:** [*Using the Trusted CI Framework to Create the CFDE Cybersecurity Program*](https://youtu.be/qztKv0JVFKc)
+**Jupyter Blog** [*European Commission Funds Jupyter Bug Bounty Program*](https://blog.jupyter.org/european-commission-funds-jupyter-bug-bounty-program-b7b96f9831e6) (Article)
+
+**Trusted CI Webinar:** [*Using the Trusted CI Framework to Create the CFDE Cybersecurity Program*](https://youtu.be/qztKv0JVFKc) (Video)
+
 
 ### 2020
 
-**JupyterCon 2020:** [*The Streetwise Guide to JupyterHub Security*](https://youtu.be/CLnL5Vyh3Mc), where I overproduced a tutorial during the COVID lockdown.
+**JupyterCon 2020:** [*The Streetwise Guide to JupyterHub Security*](https://youtu.be/CLnL5Vyh3Mc), where I overproduced a tutorial during the COVID lockdown. (Video)
 
 ### 2019
 
-**Jupyter for Science User Facilities and High Performance Computing:** [*Advancing Jupyter, Kubernetes, and Globus at ALCF*](https://youtu.be/eFWQWyej9Rw)
+**Jupyter for Science User Facilities and High Performance Computing:** [*Advancing Jupyter, Kubernetes, and Globus at ALCF*](https://youtu.be/eFWQWyej9Rw) (Video)
 
-**Singularity User Group - SDSC 2019:** [*Managing large-scale cosmology simulations with Parsl and Singularity*](https://youtu.be/nJ5B1cUscSs), with a prescient opening about my eventual return to SDSC.
+**Singularity User Group - SDSC 2019:** [*Managing large-scale cosmology simulations with Parsl and Singularity*](https://youtu.be/nJ5B1cUscSs), with a prescient opening about my eventual return to SDSC. (Video)
 
 ### 2018
 
-**LUG 2018:** [*What is Globus?*](https://youtu.be/ebcCJZrlc9Q), where you can [jump to about 18 minutes in](https://youtu.be/ebcCJZrlc9Q&t=1107) for one of the smoother Q&As I've delivered.
+**LUG 2018:** [*What is Globus?*](https://youtu.be/ebcCJZrlc9Q) (Video), where you can [jump to about 18 minutes in](https://youtu.be/ebcCJZrlc9Q&t=1107) for one of the smoother Q&As I've delivered. (Video)
 
 ### 2016
 
-**MVAPICH User Group Meeting 2016:** [User Managed Virtual Clusters in Comet](https://youtu.be/47M7gjhIz88), where my boss pretended during my introduction that he didn't know I was about to go to work at U. Chicago.
+**MVAPICH User Group Meeting 2016:** [User Managed Virtual Clusters in Comet](https://youtu.be/47M7gjhIz88), where my boss pretended during my introduction that he didn't know I was about to go to work at U. Chicago. (Video)
 
-**LUG 2016:** [*Lustre Data Mover: Because File Systems are Rooted Trees and `rsync` Must Die*](https://youtu.be/PySy-PwqFB4), with the conclusion: "..if you find something, we are going to fix it, because this is our users' data, and that's about the most precious thing that I have. I can lose compute nodes any time, but if I lose your data, I lose your work." Even if this didn't take over the storage world by storm, I'm still very proud of this work developing a simple architecture to solve a complex problem.
+**LUG 2016:** [*Lustre Data Mover: Because File Systems are Rooted Trees and `rsync` Must Die*](https://youtu.be/PySy-PwqFB4), with the conclusion: "..if you find something, we are going to fix it, because this is our users' data, and that's about the most precious thing that I have. I can lose compute nodes any time, but if I lose your data, I lose your work." Even if this didn't take over the storage world by storm, I'm still very proud of this work developing a simple architecture to solve a complex problem. (Video)
 
-**Dell Sponsored for SDSC:** [*Comet: No Research Barriers*](https://youtu.be/W5U_J2EQ8FY)
+**Dell Sponsored for SDSC:** [*Comet: No Research Barriers*](https://youtu.be/W5U_J2EQ8FY) (Video)
 
-**Dell and Intel Sponsored for SDSC**: [*SDSC Big Data*](https://youtu.be/5u4ZQqMpoZ8)
+**Dell and Intel Sponsored for SDSC**: [*SDSC Big Data*](https://youtu.be/5u4ZQqMpoZ8) (Video)
 
 ### 2015
 
-**LUG 2015:** [*SDSC’s Data Oasis Gen II: ZFS, 40GbE, and Replication*](https://youtu.be/Bjwi-R35WJM). This is very likely the most technical talk I've ever given, involving manual InfiniBand routing, diving into Linux kernel performance counters, processor SIMD instructions, patching Lustre and ZFS, and driving peak performance from disk to client over two distinct networking technologies with a parallel file system.
+**LUG 2015:** [*SDSC’s Data Oasis Gen II: ZFS, 40GbE, and Replication*](https://youtu.be/Bjwi-R35WJM). This is very likely the most technical talk I've ever given, involving manual InfiniBand routing, diving into Linux kernel performance counters, processor SIMD instructions, patching Lustre and ZFS, and driving peak performance from disk to client over two distinct networking technologies with a parallel file system. (Video)
 
 ### 2014
 
-**insideHPC:** [*SDSC Encourages Young Minds with Gaming at SC14*](https://youtu.be/iIo0vr7_hyg)
+**insideHPC:** [*SDSC Encourages Young Minds with Gaming at SC14*](https://youtu.be/iIo0vr7_hyg) (Video)
 
 ### 2013
 
-**insideHPC:** [*SDSC Wraps the Long-Tail Death Match at SC13*](https://youtu.be/fKtsq284UmA)
+**insideHPC:** [*SDSC Wraps the Long-Tail Death Match at SC13*](https://youtu.be/fKtsq284UmA) (Video)
 
-**insideHPC:** [*Rasberry Pi Cluster to Power Gaming Competition in SDSC Booth at SC13*](https://youtu.be/J623LLNU1oc)
+**insideHPC:** [*Rasberry Pi Cluster to Power Gaming Competition in SDSC Booth at SC13*](https://youtu.be/J623LLNU1oc) (Video)
 
 ### 2011
 
-**CineGrid International Workshop 2011:** [*Direct Numerical Simulations of Cosmological Reionization – Field Comparison: Density*](https://youtu.be/QNc9GTzogUo). This video was rendered in stereoscopic 4K and presented in 3D in the [Qualcomm Institute Auditorium](https://qi.ucsd.edu/services/event-spaces/).
+**CineGrid International Workshop 2011:** [*Direct Numerical Simulations of Cosmological Reionization – Field Comparison: Density*](https://youtu.be/QNc9GTzogUo). This video was rendered in stereoscopic 4K and presented in 3D in the [Qualcomm Institute Auditorium](https://qi.ucsd.edu/services/event-spaces/) (Video).
 
-**insideHPC:** [*Research Team Does Galactic Volume Difference Rendering at SC11*](https://youtu.be/ZqA1WbeZ6pk)
+**insideHPC:** [*Research Team Does Galactic Volume Difference Rendering at SC11*](https://youtu.be/ZqA1WbeZ6pk) (Video)
 
-**insideHPC:** [*Direct Numerical Simulations of Cosmological Reionization: Field Comparison: Ionization Fraction*](https://youtu.be/5dOt0IaRY4U)
+**insideHPC:** [*Direct Numerical Simulations of Cosmological Reionization: Field Comparison: Ionization Fraction*](https://youtu.be/5dOt0IaRY4U) (Video)
 
-**insideHPC:** [*Direct Numerical Simulations of Cosmological Reionization: Field Comparison: Density*](https://youtu.be/vL9hrmf7eps)
+**insideHPC:** [*Direct Numerical Simulations of Cosmological Reionization: Field Comparison: Density*](https://youtu.be/vL9hrmf7eps) (Video)
 
-**insideHPC:** [*Direct Numerical Simulations of Cosmological Reionizatoin: Field Comparison:Temperature*](https://youtu.be/hDh4NB31e2s)
+**insideHPC:** [*Direct Numerical Simulations of Cosmological Reionizatoin: Field Comparison:Temperature*](https://youtu.be/hDh4NB31e2s) (Video)
 
-**The Swiss HPC Service Provider Community:** [*Discussion Between SDSC and Argonne About the Challenges of Visualizing Large Data Sets*](https://youtu.be/gkAn8ZhKHHw)
+**The Swiss HPC Service Provider Community:** [*Discussion Between SDSC and Argonne About the Challenges of Visualizing Large Data Sets*](https://youtu.be/gkAn8ZhKHHw) (Video)
 
