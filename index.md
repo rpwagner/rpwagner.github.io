@@ -13,6 +13,7 @@ Jump to:
 * [Synergistic Activities](#synergistic-activities)
 * [Publications](#publications)
 * [Book Chapters & Conference Proceedings](#book-chapters--conference-proceedings)
+* [Press](#press)
 * [Videos](#videos)
 
 ## Education
@@ -184,6 +185,12 @@ Petascale Computing: Algorithms and Applications, Ed. D. Bader, CRC Press LLC (2
 **High resolution simulations of supersonic turbulence in molecular clouds**<br>
 Kritsuk, A. G., **Wagner, R.**, Norman, M. L., Padoan, P.<br>
 *ASP Conference Series*, 359, 84 (2006) [URL](https://www.aspbooks.org/a/volumes/article_details/?paper_id=3749)
+
+## Press
+
+Blog posts and news articles about me, or that I've contributed to.
+
+**Trusted CI Blog** [*Trusted CI Member Spotlight: Rick Wagner*](https://blog.trustedci.org/2025/04/trusted-ci-member-spotlight-rick-wagner.html)
 
 ## Videos
 
