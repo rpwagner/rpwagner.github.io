@@ -190,7 +190,7 @@ Kritsuk, A. G., **Wagner, R.**, Norman, M. L., Padoan, P.<br>
 
 ## Press & Videos
 
-This is a list of blog posts and news articles about me, or that I've contributed to, and videos of presentations, interviews, and training I've participated in. Overall, these are a good summary of my activities outside of astrophysics research and provide a chronology of my professional development.
+This is a list of blog posts and news articles about me, or that I've contributed to, and videos of my presentations, interviews, and training I've led. Overall, these are a good summary of my activities outside of astrophysics research and provide a chronology of my professional development.
 
 Jump to year: [2025](#2025), [2024](#2024), [2023](#2023), [2022](#2022), [2020](#2020), [2019](#2019), [2018](#2018), [2016](#2016), [2015](#2015), [2014](#2014), [2013](#2013), [2011](#2011)
 
