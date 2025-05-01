@@ -192,7 +192,7 @@ Kritsuk, A. G., **Wagner, R.**, Norman, M. L., Padoan, P.<br>
 
 This is a list of blog posts and news articles about me, or that I've contributed to, and videos of my presentations, interviews, and training I've led. Overall, these are a good summary of my activities outside of astrophysics research and provide a chronology of my professional development.
 
-Jump to year: [2025](#2025), [2024](#2024), [2023](#2023), [2022](#2022), [2020](#2020), [2019](#2019), [2018](#2018), [2016](#2016), [2015](#2015), [2014](#2014), [2013](#2013), [2011](#2011)
+Jump to year: [2025](#2025), [2024](#2024), [2023](#2023), [2022](#2022), [2020](#2020), [2019](#2019), [2018](#2018), [2016](#2016), [2015](#2015), [2014](#2014), [2013](#2013), [2011](#2011), [2009](#2009)
 
 ## 2025
 
@@ -287,4 +287,8 @@ Jump to year: [2025](#2025), [2024](#2024), [2023](#2023), [2022](#2022), [2020]
 **insideHPC:** [*Direct Numerical Simulations of Cosmological Reionizatoin: Field Comparison:Temperature*](https://youtu.be/hDh4NB31e2s) (Video)
 
 **The Swiss HPC Service Provider Community:** [*Discussion Between SDSC and Argonne About the Challenges of Visualizing Large Data Sets*](https://youtu.be/gkAn8ZhKHHw) (Video)
+
+### 2009
+
+**Argonne MCS Feature Story** [*StarGate Demo at SC09 Shows How to Keep Astrophysics Data Out of Archival Black Holes*](https://www.anl.gov/mcs/article/stargate-demo-at-sc09-shows-how-to-keep-astrophysics-data-out-of-archival-black-holes) (Article)
 
