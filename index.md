@@ -96,7 +96,7 @@ Kritsuk, A. G., <strong>Wagner, R.</strong>, Norman, M. L.<br>
 </p>
 
 <p>
-<strong>Profiles of Dark Matter Velocity Anisotropy in Simulated Clusters<strong><br>
+<strong>Profiles of Dark Matter Velocity Anisotropy in Simulated Clusters</strong><br>
 Lemze, D., <strong>Wagner, R.</strong>, Rephaeli, Y., Sadeh, S., Norman, M. L., Barkana, R., Broadhurst, T., Postman, M., Ford, H.<br>
 <emph>ApJ</emph>, 752, 141 (2012) <a target="_blank" href="https://doi.org/10.1088/0004-637X/752/2/141">doi:10.1088/0004-637X/752/2/141</a>
 </p>
