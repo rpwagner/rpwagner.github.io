@@ -370,7 +370,7 @@ This is a list of blog posts and news articles about me, or that I've contribute
 
 <h3>2020</h3>
 <ul>
-<li><a href="https://youtu.be/CLnL5Vyh3Mc"><em>The Streetwise Guide to JupyterHub Security</em></a>, where I overproduced a tutorial during the COVID lockdown. (Video)</li>
+<li><a href="https://youtu.be/CLnL5Vyh3Mc"><em>The Streetwise Guide to JupyterHub Security</em></a> (Video)</li>
 </ul>
 
 <h3>2019</h3>
@@ -384,7 +384,7 @@ This is a list of blog posts and news articles about me, or that I've contribute
 <h3>2018</h3>
 
 <ul>
-<li><a href="https://youtu.be/ebcCJZrlc9Q"><em>What is Globus?</em></a>, where you can <a href="https://youtu.be/ebcCJZrlc9Q&t=1107"> (Video)</li>
+<li><a href="https://youtu.be/ebcCJZrlc9Q"><em>What is Globus?</em></a> (Video)</li>
 </ul>
 
 <h3>2016</h3>
@@ -448,6 +448,7 @@ This is a list of blog posts and news articles about me, or that I've contribute
 <li> <a href="https://youtu.be/gkAn8ZhKHHw"><em>Discussion Between SDSC and Argonne About the Challenges of Visualizing Large Data Sets</em></a> (Video)</li>
 
 </ul>
+
 <h3>2009</h3>
 
 <ul>
