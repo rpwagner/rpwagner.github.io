@@ -197,7 +197,9 @@ Kritsuk, A. G., **Wagner, R.**, Norman, M. L., Padoan, P.<br>
 
   <div class="accordion-content">
 
+<p>
 This is a list of blog posts and news articles about me, or that I've contributed to, and videos of my presentations, interviews, and training I've led. Overall, these are a good summary of my activities outside of astrophysics research and provide a chronology of my professional development.
+</p>
 
 <h3>2025</h3>
 
@@ -255,7 +257,7 @@ This is a list of blog posts and news articles about me, or that I've contribute
 
 <p><strong>Dell Sponsored for SDSC:</strong> <a href="https://youtu.be/W5U_J2EQ8FY"><em>Comet: No Research Barriers</em></a> (Video)</p>
 
-<p><strong>Dell and Intel Sponsored for SDSC<p><strong>: <a href="https://youtu.be/5u4ZQqMpoZ8"><em>SDSC Big Data</em></a> (Video)</p>
+<p><strong>Dell and Intel Sponsored for SDSC:</strong> <a href="https://youtu.be/5u4ZQqMpoZ8"><em>SDSC Big Data</em></a> (Video)</p>
 
 <h3>2015</h3>
 
