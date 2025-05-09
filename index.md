@@ -354,7 +354,7 @@ This is a list of blog posts and news articles about me, or that I've contribute
 
 <li><a href="https://blog.jupyter.org/european-commission-funds-jupyter-bug-bounty-program-b7b96f9831e6"><em>European Commission Funds Jupyter Bug Bounty Program</em></a> (Article)</li>
 
-<li><strong>Trusted CI Webinar: <a href="https://youtu.be/qztKv0JVFKc"><em>Using the Trusted CI Framework to Create the CFDE Cybersecurity Program</em></a> (Video)</li>
+<li><a href="https://youtu.be/qztKv0JVFKc"><em>Using the Trusted CI Framework to Create the CFDE Cybersecurity Program</em></a> (Video)</li>
 </ul>
 
 <h3>2022</h3>
