@@ -96,7 +96,7 @@ Kritsuk, A. G., <strong>Wagner, R.</strong>, Norman, M. L.<br>
 </p>
 
 <p>
-<strong>Profiles of Dark Matter Velocity Anisotropy in Simulated Clusters**
+<strong>Profiles of Dark Matter Velocity Anisotropy in Simulated Clusters<strong><br>
 Lemze, D., <strong>Wagner, R.</strong>, Rephaeli, Y., Sadeh, S., Norman, M. L., Barkana, R., Broadhurst, T., Postman, M., Ford, H.<br>
 <emph>ApJ</emph>, 752, 141 (2012) <a target="_blank" href="https://doi.org/10.1088/0004-637X/752/2/141">doi:10.1088/0004-637X/752/2/141</a>
 </p>
@@ -164,13 +164,13 @@ Saint, N., Chard, R., Vescovi, R., Pruyne, J., Blaiszik, B., Ananthakrishnan, R.
 
 <p>
 <strong>An Open Ecosystem for Pervasive Use of Persistent Identifiers</strong><br>
-Ananthakrishnan, R., Chard, K., D'Arcy, M., Kesselman, C., Foster, I., McCollam, B., Pruyne, J., Rocca-Serra, P., Schuler, R., **Wagner, R.</strong><br>
+Ananthakrishnan, R., Chard, K., D'Arcy, M., Kesselman, C., Foster, I., McCollam, B., Pruyne, J., Rocca-Serra, P., Schuler, R., <strong>Wagner, R.</strong><br>
 <emph>PEARC '20</emph>, 1, 99 (2020) <a target="_blank" href="https://doi.org/10.1145/3311790.3396660">doi:10.1145/3311790.3396660</a>
 </p>
 
 <p>
 <strong>Petrel: A Programmatically Accessible Research Data Service</strong><br>
-Allcock, W. E., Allen, B. S., Ananthakrishnan, R., Blaiszik, B., Chard, K., Chard, R., Foster, I., Lacinski, L., Papka, M. E., **Wagner, R.</strong><br>
+Allcock, W. E., Allen, B. S., Ananthakrishnan, R., Blaiszik, B., Chard, K., Chard, R., Foster, I., Lacinski, L., Papka, M. E., <strong>Wagner, R.</strong><br>
 <emph>PEARC '19</emph>, 49, 1 (2019) <a target="_blank" href="https://doi.org/10.1145/3332186.3332241">doi:10.1145/3332186.3332241</a>
 </p>
 
@@ -201,7 +201,7 @@ Kritsuk, A. G., <strong>Wagner, R.</strong>, Norman, M. L.<br>
 
 <p>
 <strong>Storage utilization in the long tail of science</strong><br>
-Lockwood, G. K., Tatineni, M., **Wagner, R.</strong><br>
+Lockwood, G. K., Tatineni, M., <strong>Wagner, R.</strong><br>
 <emph>XSEDE '15</emph>, 32, 1 (2015) <a target="_blank" href="https://doi.org/10.1145/2792745.2792777">doi:10.1145/2792745.2792777</a>
 </p>
 
@@ -219,7 +219,7 @@ Moore, R. L., Baru, C., Baxter, D., Fox, G. C., Majumdar, A.,  Papadopoulos, P.,
 
 <p>
 <strong>SR-IOV: Performance Benefits for Virtualized Interconnects</strong><br>
-Lockwood, G. K., Tatineni, M., **Wagner, R.</strong><br>
+Lockwood, G. K., Tatineni, M., <strong>Wagner, R.</strong><br>
 <emph>XSEDE '14</emph>, 47, 1 (2014) <a target="_blank" href="https://doi.org/10.1145/2616498.2616537">doi:10.1145/2616498.2616537</a>
 </p>
 
@@ -244,7 +244,7 @@ Strande, S. M., Cicotti, P., Sinkovits, R. S., Young, W. S., <strong>Wagner, R.<
 
 <p>
 <strong>Exploring large data over wide area networks</strong><br>
-Hereld, M., Insley, J. A., Olson, E. C., Papka, M. E., Vishwanath, V., Norman, M. L., **Wagner, R.</strong><br>
+Hereld, M., Insley, J. A., Olson, E. C., Papka, M. E., Vishwanath, V., Norman, M. L., <strong>Wagner, R.</strong><br>
 <emph>Large Data Analysis and Visualization (LDAV)</emph>, 2011, 133 (2011) <a target="_blank" href="https://doi.org/10.1109/LDAV.2011.6092335">doi:10.1109/LDAV.2011.6092335</a>
 </p>
 
@@ -270,7 +270,7 @@ Kritsuk, A. G., Padoan, P., <strong>Wagner, R.</strong>, Norman, M. L.<br>
 
 <p>
 <strong>Simulating Cosmological Evolution with Enzo</strong><br>
-Norman, M. L., Bryan, G. L., Harkness, R., Bordner, J., Reynolds, D., O'Shea, B., **Wagner, R.</strong><br>
+Norman, M. L., Bryan, G. L., Harkness, R., Bordner, J., Reynolds, D., O'Shea, B., <strong>Wagner, R.</strong><br>
 Petascale Computing: Algorithms and Applications, Ed. D. Bader, CRC Press LLC (2007) <a target="_blank" href="https://doi.org/10.1201/9781584889106">doi:10.1201/9781584889106</a>
 </p>
 
