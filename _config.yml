@@ -1,6 +1,10 @@
-title: Rick Wagner
+title: "Rick Wagner – HPC & Open-Source Leader"
 description: HPC & Open-Source Leader • CTO • Project Jupyter Executive Council
 author: Rick Wagner
 theme: jekyll-theme-cayman
-
-
+seo:
+  type: Person
+  name: "Rick Wagner"
+  job_title: "Chief Technology Officer, SDSC"
+  same_as:
+    - https://www.linkedin.com/in/rpwagner

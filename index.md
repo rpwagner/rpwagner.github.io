@@ -188,11 +188,23 @@ Petascale Computing: Algorithms and Applications, Ed. D. Bader, CRC Press LLC (2
 Kritsuk, A. G., **Wagner, R.**, Norman, M. L., Padoan, P.<br>
 *ASP Conference Series*, 359, 84 (2006) [URL](https://www.aspbooks.org/a/volumes/article_details/?paper_id=3749)
 
+<!-- Accordion block -->
+<div class="accordion">
+
+  <button class="accordion-header">
+    Press & Videos&nbsp;(selected)  <!-- ❶ the visible label -->
+    <span class="accordion-icon">▾</span>
+  </button>
+
+  <div class="accordion-content">
+
+
 ## Press & Videos
 
 This is a list of blog posts and news articles about me, or that I've contributed to, and videos of my presentations, interviews, and training I've led. Overall, these are a good summary of my activities outside of astrophysics research and provide a chronology of my professional development.
 
 Jump to year: [2025](#2025), [2024](#2024), [2023](#2023), [2022](#2022), [2020](#2020), [2019](#2019), [2018](#2018), [2016](#2016), [2015](#2015), [2014](#2014), [2013](#2013), [2011](#2011), [2009](#2009)
+
 
 ## 2025
 
@@ -292,3 +304,9 @@ Jump to year: [2025](#2025), [2024](#2024), [2023](#2023), [2022](#2022), [2020]
 
 **Argonne MCS Feature Story** [*StarGate Demo at SC09 Shows How to Keep Astrophysics Data Out of Archival Black Holes*](https://www.anl.gov/mcs/article/stargate-demo-at-sc09-shows-how-to-keep-astrophysics-data-out-of-archival-black-holes) (Article)
 
+
+  </div>
+
+</div>
+
+<script src="{{ '/assets/js/accordion.js' | relative_url }}"></script>
