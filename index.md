@@ -72,7 +72,7 @@ Charbonneau, A. L., Brady, A., Czajkowski, K., Aluvathingal, J., Canchi, S., Car
 
 <p>
 <strong>Coordinating an operational data distribution network for CMIP6 data</strong><br>
-Petrie, R., Denvil, S., Ames, S., Levavasseur, G., Fiore, S., Allen, C., Antonio, F., Berger, K., Bretonni'ere, P.-A., Cinquini, L., Dart, E., Dwarakanath, P., Druken, K., Evans, B., Franchist ́eguy, L., Gardoll, S., Gerbier, E., Greenslade, M., Hassell, D., Iwi, A., Juckes, M., Kindermann, S., Lacinski, L., Mirto, M., Nasser, A. B., Nassisi, P., Nienhouse, E., Nikonov, S., Nuzzo, A., Richards, C., Ridzwan, S., Rixen, M., Serradell, K., Snow, K., Stephens, A., Stockhause, M., Vahlenkamp, H., **Wagner, R.</strong><br>
+Petrie, R., Denvil, S., Ames, S., Levavasseur, G., Fiore, S., Allen, C., Antonio, F., Berger, K., Bretonni'ere, P.-A., Cinquini, L., Dart, E., Dwarakanath, P., Druken, K., Evans, B., Franchist ́eguy, L., Gardoll, S., Gerbier, E., Greenslade, M., Hassell, D., Iwi, A., Juckes, M., Kindermann, S., Lacinski, L., Mirto, M., Nasser, A. B., Nassisi, P., Nienhouse, E., Nikonov, S., Nuzzo, A., Richards, C., Ridzwan, S., Rixen, M., Serradell, K., Snow, K., Stephens, A., Stockhause, M., Vahlenkamp, H., <strong>Wagner, R.</strong><br>
 <emph>Geoscientific Model Development</emph>, 14, 629–644 (2021) <a target="_blank" href="https://doi.org/10.5194/gmd-14-629-2021">doi:10.5194/gmd-14-629-2021</a>
 </p>
 
@@ -109,7 +109,7 @@ Lemze, D., Rephaeli, Y., Barkana, R., Broadhurst, T., <strong>Wagner, R.</strong
 
 <p>
 <strong>On the Density Distribution in Star-forming Interstellar Clouds</strong><br>
-Kritsuk, A. G., Norman, M. L., **Wagner, R.</strong><br>
+Kritsuk, A. G., Norman, M. L., <strong>Wagner, R.</strong><br>
 <emph>ApJL</emph>, 727, L20 (2011) <a target="_blank" href="https://doi.org/10.1088/2041-8205/727/1/L20">doi:10.1088/2041-8205/727/1/L20</a>
 </p>
 
@@ -121,13 +121,13 @@ Vazza, F., Brunetti, G., Kritsuk, A., <strong>Wagner, R.</strong>, Gheller, C., 
 
 <p>
 <strong>The Statistics of Supersonic Isothermal Turbulence</strong><br>
-Kritsuk, A. G., Norman, M. L., Padoan, P., **Wagner, R.</strong><br>
+Kritsuk, A. G., Norman, M. L., Padoan, P., <strong>Wagner, R.</strong><br>
 <emph>ApJ</emph>, 665, 416 (2007) <a target="_blank" href="https://doi.org/10.1086/519443">doi:10.1086/519443</a>
 </p>
 
 <p>
 <strong>The Santa Fe Light Cone Simulation Project: I. Confusion and the WHIM in Upcoming Sunyaev-Zel'dovich Effect Surveys</strong><br>
-Hallman, E. J. , O'Shea, B. W., Burns, J. O., Norman, M. L., Harkness, R., **Wagner, R.</strong><br>
+Hallman, E. J. , O'Shea, B. W., Burns, J. O., Norman, M. L., Harkness, R., <strong>Wagner, R.</strong><br>
 <emph>ApJ</emph>, 671, 27 (2007) <a target="_blank" href="https://doi.org/10.1086/522912">doi:10.1086/522912</a>
 
 </div>
@@ -136,7 +136,7 @@ Hallman, E. J. , O'Shea, B. W., Burns, J. O., Norman, M. L., Harkness, R., **Wag
 <!-- Accordion block -->
 <div class="accordion">
   <button class="accordion-header">
-    Journal Articles&nbsp;
+      Book Chapters & Conference Proceedings&nbsp;
     <span class="accordion-icon">▾</span>
   </button>
 
@@ -146,7 +146,7 @@ Hallman, E. J. , O'Shea, B. W., Burns, J. O., Norman, M. L., Harkness, R., **Wag
 
 <p>
 <strong>Cheap and FAIR: Building a Serverless Research Data Repository</strong><br>
-Zonca, A., **Wagner, R.</strong><br>
+Zonca, A., <strong>Wagner, R.</strong><br>
 <emph>Gateways 2024</emph> (2024) <a target="_blank" href="https://doi.org/10.5281/zenodo.13887292">https://doi.org/10.5281/zenodo.13887292</a>
 </p>
 
