@@ -354,7 +354,7 @@ This is a list of blog posts and news articles about me, or that I've contribute
 
 <li><a href="https://blog.jupyter.org/european-commission-funds-jupyter-bug-bounty-program-b7b96f9831e6"><em>European Commission Funds Jupyter Bug Bounty Program</em></a> (Article)</li>
 
-<li><strong>Trusted CI Webinar:</strong> <a href="https://youtu.be/qztKv0JVFKc"><em>Using the Trusted CI Framework to Create the CFDE Cybersecurity Program</em></a> (Video)</li>
+<li><strong>Trusted CI Webinar: <a href="https://youtu.be/qztKv0JVFKc"><em>Using the Trusted CI Framework to Create the CFDE Cybersecurity Program</em></a> (Video)</li>
 </ul>
 
 <h3>2022</h3>
@@ -378,13 +378,13 @@ This is a list of blog posts and news articles about me, or that I've contribute
 <ul>
 <li><a href="https://youtu.be/eFWQWyej9Rw"><em>Advancing Jupyter, Kubernetes, and Globus at ALCF</em></a> (Video)</li>
 
-<li></strong> <a href="https://youtu.be/nJ5B1cUscSs"><em>Managing large-scale cosmology simulations with Parsl and Singularity</em></a>, with a prescient opening about my eventual return to SDSC. (Video)</li>
+<li><a href="https://youtu.be/nJ5B1cUscSs"><em>Managing large-scale cosmology simulations with Parsl and Singularity</em></a>, with a prescient opening about my eventual return to SDSC. (Video)</li>
 </ul>
 
 <h3>2018</h3>
 
 <ul>
-<li><a href="https://youtu.be/ebcCJZrlc9Q"><em>What is Globus?</em></a> (Video), where you can <a href="https://youtu.be/ebcCJZrlc9Q&t=1107">jump to about 18 minutes in</a> for one of the smoother Q&As I've delivered. (Video)</li>
+<li><a href="https://youtu.be/ebcCJZrlc9Q"><em>What is Globus?</em></a>, where you can <a href="https://youtu.be/ebcCJZrlc9Q&t=1107"> (Video)</li>
 </ul>
 
 <h3>2016</h3>
@@ -392,13 +392,13 @@ This is a list of blog posts and news articles about me, or that I've contribute
 <ul>
 <li><a href="https://www.opensfs.org/press-releases/opensfs-reinvents-itself-with-a-focus-on-user-needs/"><em>OpenSFS Reinvents Itself with a Focus on User Needs</em></a> (Article)</li>
 
-<li></strong> <a href="https://youtu.be/47M7gjhIz88">User Managed Virtual Clusters in Comet</a>, where my boss pretended during my introduction that he didn't know I was about to go to work at U. Chicago. (Video)</li>
+<li> <a href="https://youtu.be/47M7gjhIz88">User Managed Virtual Clusters in Comet</a>, where my boss pretended during my introduction that he didn't know I was about to go to work at U. Chicago. (Video)</li>
 
-<li><a href="https://youtu.be/PySy-PwqFB4"><em>Lustre Data Mover: Because File Systems are Rooted Trees and `rsync` Must Die</em></a>, with the conclusion: "..if you find something, we are going to fix it, because this is our users' data, and that's about the most precious thing that I have. I can lose compute nodes any time, but if I lose your data, I lose your work." Even if this didn't take over the storage world by storm, I'm still very proud of this work developing a simple architecture to solve a complex problem. (Video)</li>
+<li><a href="https://youtu.be/PySy-PwqFB4"><em>Lustre Data Mover: Because File Systems are Rooted Trees and `rsync` Must Die</em></a> Even if this didn't take over the storage world by storm, I'm still very proud of this work developing a simple architecture to solve a complex problem. (Video)</li>
 
-<li></strong> <a href="https://youtu.be/W5U_J2EQ8FY"><em>Comet: No Research Barriers</em></a> (Video)</li>
+<li> <a href="https://youtu.be/W5U_J2EQ8FY"><em>Comet: No Research Barriers</em></a> (Video)</li>
 
-<li></strong> <a href="https://youtu.be/5u4ZQqMpoZ8"><em>SDSC Big Data</em></a> (Video)</li>
+<li> <a href="https://youtu.be/5u4ZQqMpoZ8"><em>SDSC Big Data</em></a> (Video)</li>
 
 </ul>
 
