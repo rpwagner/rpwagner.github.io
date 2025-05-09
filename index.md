@@ -292,3 +292,24 @@ Jump to year: [2025](#2025), [2024](#2024), [2023](#2023), [2022](#2022), [2020]
 
 **Argonne MCS Feature Story** [*StarGate Demo at SC09 Shows How to Keep Astrophysics Data Out of Archival Black Holes*](https://www.anl.gov/mcs/article/stargate-demo-at-sc09-shows-how-to-keep-astrophysics-data-out-of-archival-black-holes) (Article)
 
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section.
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+## Second Header
+
+- a
+- short
+- list
+
+</details>
