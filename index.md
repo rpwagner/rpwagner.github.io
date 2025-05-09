@@ -201,101 +201,101 @@ This is a list of blog posts and news articles about me, or that I've contribute
 
 <h3>2025</h3>
 
-<strong>Trusted CI Blog</strong> <a href="https://blog.trustedci.org/2025/04/trusted-ci-member-spotlight-rick-wagner.html"><em>Trusted CI Member Spotlight: Rick Wagner</em></a> (Article)
+<p><strong>Trusted CI Blog</strong> <a href="https://blog.trustedci.org/2025/04/trusted-ci-member-spotlight-rick-wagner.html"><em>Trusted CI Member Spotlight: Rick Wagner</em></a> (Article)</p>
 
-<strong>SDSC Press Release</strong> <a href="https://www.sdsc.edu/news/2025/PR20250414-jupyter.html"><em>SDSC's Rick Wagner Takes a Leading Role in Project Jupyter</em></a>, also posted in <a href="">HPCwire</a>https://www.hpcwire.com/off-the-wire/sdscs-rick-wagner-takes-a-leading-role-in-project-jupyter/ (Article)
+<p><strong>SDSC Press Release</strong> <a href="https://www.sdsc.edu/news/2025/PR20250414-jupyter.html"><em>SDSC's Rick Wagner Takes a Leading Role in Project Jupyter</em></a>, also posted in <a href="">HPCwire</a>https://www.hpcwire.com/off-the-wire/sdscs-rick-wagner-takes-a-leading-role-in-project-jupyter/ (Article)</p>
 
-<strong>Jupyter Blog</strong> <a href="https://blog.jupyter.org/jupytercon-2025-c654a31a584e"><em>JupyterCon 2025!</em></a> (Article)
+<p><strong>Jupyter Blog</strong> <a href="https://blog.jupyter.org/jupytercon-2025-c654a31a584e"><em>JupyterCon 2025!</em></a> (Article)</p>
 
-<strong>Jupyter Blog</strong> <a href="https://blog.jupyter.org/project-jupyters-2025-executive-council-elections-605b183ec64c"><em>Project Jupyter’s 2025 Executive Council Elections</em></a> (Article)
+<p><strong>Jupyter Blog</strong> <a href="https://blog.jupyter.org/project-jupyters-2025-executive-council-elections-605b183ec64c"><em>Project Jupyter’s 2025 Executive Council Elections</em></a> (Article)</p>
 
 <h3>2024</h3>
 
-<strong>Science Gateways Community</strong> <a href="https://youtu.be/EYrGxGtmUH0?si=p3wH2TNtJ4-fUdLf"><em>Gateways 2024 Tutorial: Cheap and FAIR: Building a Serverless Research Data Repository</em></a> (Video)
+<p><strong>Science Gateways Community</strong> <a href="https://youtu.be/EYrGxGtmUH0?si=p3wH2TNtJ4-fUdLf"><em>Gateways 2024 Tutorial: Cheap and FAIR: Building a Serverless Research Data Repository</em></a> (Video)</p>
 
-<strong>Travis Talks Tech:</strong> <a href="https://youtu.be/vzyUe6wkdPs"><em>Super Compute, AI, Physics, and Motorcycles? - with Rick Wagner</em></a> (Video)
+<p><strong>Travis Talks Tech:</strong> <a href="https://youtu.be/vzyUe6wkdPs"><em>Super Compute, AI, Physics, and Motorcycles? - with Rick Wagner</em></a> (Video)</p>
 
 <h3>2023</h3>
 
-<strong>UCSD Press Release</strong> <a href="https://today.ucsd.edu/story/san-diego-supercomputer-center-announces-new-lead-of-technology"><em>San Diego Supercomputer Center Announces New Lead of Technology</em></a> (Article)
+<p><strong>UCSD Press Release</strong> <a href="https://today.ucsd.edu/story/san-diego-supercomputer-center-announces-new-lead-of-technology"><em>San Diego Supercomputer Center Announces New Lead of Technology</em></a> (Article)</p>
 
-<strong>Jupyter Blog</strong> <a href="https://blog.jupyter.org/european-commission-funds-jupyter-bug-bounty-program-b7b96f9831e6"><em>European Commission Funds Jupyter Bug Bounty Program</em></a> (Article)
+<p><strong>Jupyter Blog</strong> <a href="https://blog.jupyter.org/european-commission-funds-jupyter-bug-bounty-program-b7b96f9831e6"><em>European Commission Funds Jupyter Bug Bounty Program</em></a> (Article)</p>
 
-<strong>Trusted CI Webinar:</strong> <a href="https://youtu.be/qztKv0JVFKc"><em>Using the Trusted CI Framework to Create the CFDE Cybersecurity Program</em></a> (Video)
+<p><strong>Trusted CI Webinar:</strong> <a href="https://youtu.be/qztKv0JVFKc"><em>Using the Trusted CI Framework to Create the CFDE Cybersecurity Program</em></a> (Video)</p>
 
 <h3>2022</h3>
 
-<strong>UCSD Press Release</strong> <a href="https://today.ucsd.edu/story/three-california-universities-commit-to-growing-a-community-of-cyberinfrastructure-professionals"><em>Three California Universities Commit to Growing a Community of Cyberinfrastructure Professionals</em></a> (Article)
+<p><strong>UCSD Press Release</strong> <a href="https://today.ucsd.edu/story/three-california-universities-commit-to-growing-a-community-of-cyberinfrastructure-professionals"><em>Three California Universities Commit to Growing a Community of Cyberinfrastructure Professionals</em></a> (Article)</p>
 
-<strong>Jupyter Blog</strong> <a href="https://blog.jupyter.org/requiring-2fa-for-jupyter-github-organizations-ad15507da9b1"><em>Requiring 2FA for Jupyter GitHub Organizations</em></a> (Article)
+<p><strong>Jupyter Blog</strong> <a href="https://blog.jupyter.org/requiring-2fa-for-jupyter-github-organizations-ad15507da9b1"><em>Requiring 2FA for Jupyter GitHub Organizations</em></a> (Article)</p>
 
-<strong>Globus User Story</strong> <a href="https://www.globus.org/user-stories/accelerating-research-UCSD"><em>Accelerating Research at UCSD with Globus</em></a> (Article)
+<p><strong>Globus User Story</strong> <a href="https://www.globus.org/user-stories/accelerating-research-UCSD"><em>Accelerating Research at UCSD with Globus</em></a> (Article)</p>
 
 <h3>2020</h3>
 
-<strong>JupyterCon 2020:</strong> <a href="https://youtu.be/CLnL5Vyh3Mc"><em>The Streetwise Guide to JupyterHub Security</em></a>, where I overproduced a tutorial during the COVID lockdown. (Video)
+<p><strong>JupyterCon 2020:</strong> <a href="https://youtu.be/CLnL5Vyh3Mc"><em>The Streetwise Guide to JupyterHub Security</em></a>, where I overproduced a tutorial during the COVID lockdown. (Video)</p>
 
 <h3>2019</h3>
 
-<strong>Jupyter for Science User Facilities and High Performance Computing:</strong> <a href="https://youtu.be/eFWQWyej9Rw"><em>Advancing Jupyter, Kubernetes, and Globus at ALCF</em></a> (Video)
+<p><strong>Jupyter for Science User Facilities and High Performance Computing:</strong> <a href="https://youtu.be/eFWQWyej9Rw"><em>Advancing Jupyter, Kubernetes, and Globus at ALCF</em></a> (Video)</p>
 
-<strong>Singularity User Group - SDSC 2019:</strong> <a href="https://youtu.be/nJ5B1cUscSs"><em>Managing large-scale cosmology simulations with Parsl and Singularity</em></a>, with a prescient opening about my eventual return to SDSC. (Video)
+<p><strong>Singularity User Group - SDSC 2019:</strong> <a href="https://youtu.be/nJ5B1cUscSs"><em>Managing large-scale cosmology simulations with Parsl and Singularity</em></a>, with a prescient opening about my eventual return to SDSC. (Video)</p>
 
 <h3>2018</h3>
 
-<strong>LUG 2018:</strong> <a href="https://youtu.be/ebcCJZrlc9Q"><em>What is Globus?</em></a> (Video), where you can <a href="https://youtu.be/ebcCJZrlc9Q&t=1107">jump to about 18 minutes in</a> for one of the smoother Q&As I've delivered. (Video)
+<p><strong>LUG 2018:</strong> <a href="https://youtu.be/ebcCJZrlc9Q"><em>What is Globus?</em></a> (Video), where you can <a href="https://youtu.be/ebcCJZrlc9Q&t=1107">jump to about 18 minutes in</a> for one of the smoother Q&As I've delivered. (Video)</p>
 
 <h3>2016</h3>
 
-<strong>OpenSFS Press Release</strong> <a href="https://www.opensfs.org/press-releases/opensfs-reinvents-itself-with-a-focus-on-user-needs/"><em>OpenSFS Reinvents Itself with a Focus on User Needs</em></a> (Article)
+<p><strong>OpenSFS Press Release</strong> <a href="https://www.opensfs.org/press-releases/opensfs-reinvents-itself-with-a-focus-on-user-needs/"><em>OpenSFS Reinvents Itself with a Focus on User Needs</em></a> (Article)</p>
 
-<strong>MVAPICH User Group Meeting 2016:</strong> <a href="https://youtu.be/47M7gjhIz88">User Managed Virtual Clusters in Comet</a>, where my boss pretended during my introduction that he didn't know I was about to go to work at U. Chicago. (Video)
+<p><strong>MVAPICH User Group Meeting 2016:</strong> <a href="https://youtu.be/47M7gjhIz88">User Managed Virtual Clusters in Comet</a>, where my boss pretended during my introduction that he didn't know I was about to go to work at U. Chicago. (Video)</p>
 
-<strong>LUG 2016:</strong> <a href="https://youtu.be/PySy-PwqFB4"><em>Lustre Data Mover: Because File Systems are Rooted Trees and `rsync` Must Die</em></a>, with the conclusion: "..if you find something, we are going to fix it, because this is our users' data, and that's about the most precious thing that I have. I can lose compute nodes any time, but if I lose your data, I lose your work." Even if this didn't take over the storage world by storm, I'm still very proud of this work developing a simple architecture to solve a complex problem. (Video)
+<p><strong>LUG 2016:</strong> <a href="https://youtu.be/PySy-PwqFB4"><em>Lustre Data Mover: Because File Systems are Rooted Trees and `rsync` Must Die</em></a>, with the conclusion: "..if you find something, we are going to fix it, because this is our users' data, and that's about the most precious thing that I have. I can lose compute nodes any time, but if I lose your data, I lose your work." Even if this didn't take over the storage world by storm, I'm still very proud of this work developing a simple architecture to solve a complex problem. (Video)</p>
 
-<strong>Dell Sponsored for SDSC:</strong> <a href="https://youtu.be/W5U_J2EQ8FY"><em>Comet: No Research Barriers</em></a> (Video)
+<p><strong>Dell Sponsored for SDSC:</strong> <a href="https://youtu.be/W5U_J2EQ8FY"><em>Comet: No Research Barriers</em></a> (Video)</p>
 
-<strong>Dell and Intel Sponsored for SDSC<strong>: <a href="https://youtu.be/5u4ZQqMpoZ8"><em>SDSC Big Data</em></a> (Video)
+<p><strong>Dell and Intel Sponsored for SDSC<p><strong>: <a href="https://youtu.be/5u4ZQqMpoZ8"><em>SDSC Big Data</em></a> (Video)</p>
 
 <h3>2015</h3>
 
-<strong>insideHPC</strong> <a href="https://insidehpc.com/2015/11/seagate-ssds-boost-analytics-on-comet-supercomputer/"><em>Seagate SSDs Boost Analytics on Comet Supercomputer</em></a> (Article)
+<p><strong>insideHPC</strong> <a href="https://insidehpc.com/2015/11/seagate-ssds-boost-analytics-on-comet-supercomputer/"><em>Seagate SSDs Boost Analytics on Comet Supercomputer</em></a> (Article)</p>
 
-<strong>UCSD Guardian</strong> <a href="https://ucsdguardian.org/2015/11/09/supercomputers-raspberry-pis-and-purple-puppies/"><em>Supercomputers, Raspberry Pis and Purple Puppies</em></a> (Article)
+<p><strong>UCSD Guardian</strong> <a href="https://ucsdguardian.org/2015/11/09/supercomputers-raspberry-pis-and-purple-puppies/"><em>Supercomputers, Raspberry Pis and Purple Puppies</em></a> (Article)</p>
 
-<strong>The Next Platform</strong> <a href="https://www.nextplatform.com/2015/10/13/improving-hpc-file-system-performance-and-data-integrity/"><em>Improving HPC File System Performance and Data Integrity</em></a> (Article)
+<p><strong>The Next Platform</strong> <a href="https://www.nextplatform.com/2015/10/13/improving-hpc-file-system-performance-and-data-integrity/"><em>Improving HPC File System Performance and Data Integrity</em></a> (Article)</p>
 
-<strong>LUG 2015:</strong> <a href="https://youtu.be/Bjwi-R35WJM"><em>SDSC’s Data Oasis Gen II: ZFS, 40GbE, and Replication</em></a>. This is very likely the most technical talk I've ever given, involving manual InfiniBand routing, diving into Linux kernel performance counters, processor SIMD instructions, patching Lustre and ZFS, and driving peak performance from disk to client over two distinct networking technologies with a parallel file system. (Video)
+<p><strong>LUG 2015:</strong> <a href="https://youtu.be/Bjwi-R35WJM"><em>SDSC’s Data Oasis Gen II: ZFS, 40GbE, and Replication</em></a>. This is very likely the most technical talk I've ever given, involving manual InfiniBand routing, diving into Linux kernel performance counters, processor SIMD instructions, patching Lustre and ZFS, and driving peak performance from disk to client over two distinct networking technologies with a parallel file system. (Video)</p>
 
 <h3>2014</h3>
 
-<strong>insideHPC:</strong> <a href="https://youtu.be/iIo0vr7_hyg"><em>SDSC Encourages Young Minds with Gaming at SC14</em></a> (Video)
+<p><strong>insideHPC:</strong> <a href="https://youtu.be/iIo0vr7_hyg"><em>SDSC Encourages Young Minds with Gaming at SC14</em></a> (Video)</p>
 
 <h3>2013</h3>
 
-<strong>insideHPC:</strong> <a href=""><em>SDSC Wraps the Long-Tail Death Match at SC13</em></a>https://youtu.be/fKtsq284UmA (Video)
+<p><strong>insideHPC:</strong> <a href=""><em>SDSC Wraps the Long-Tail Death Match at SC13</em></a>https://youtu.be/fKtsq284UmA (Video)</p>
 
-<strong>UCSD Press Release</strong> <a href="https://today.ucsd.edu/story/sdsc_uses_meteor_raspberry_pi_cluster_to_teach_parallel_computing"><em>SDSC Uses Meteor Raspberry Pi Cluster to Teach Parallel Computing</em></a> (Article)
+<p><strong>UCSD Press Release</strong> <a href="https://today.ucsd.edu/story/sdsc_uses_meteor_raspberry_pi_cluster_to_teach_parallel_computing"><em>SDSC Uses Meteor Raspberry Pi Cluster to Teach Parallel Computing</em></a> (Article)</p>
 
-<strong>insideHPC:</strong> <a href="https://youtu.be/J623LLNU1oc"><em>Rasberry Pi Cluster to Power Gaming Competition in SDSC Booth at SC13</em></a> (Video)
+<p><strong>insideHPC:</strong> <a href="https://youtu.be/J623LLNU1oc"><em>Rasberry Pi Cluster to Power Gaming Competition in SDSC Booth at SC13</em></a> (Video)</p>
 
 <h3>2011</h3>
 
-<strong>CineGrid International Workshop 2011:</strong> <a href="https://youtu.be/QNc9GTzogUo"><em>Direct Numerical Simulations of Cosmological Reionization – Field Comparison: Density</em></a>. This video was rendered in stereoscopic 4K and presented in 3D in the <a href="https://qi.ucsd.edu/services/event-spaces/">Qualcomm Institute Auditorium</a> (Video).
+<p><strong>CineGrid International Workshop 2011:</strong> <a href="https://youtu.be/QNc9GTzogUo"><em>Direct Numerical Simulations of Cosmological Reionization – Field Comparison: Density</em></a>. This video was rendered in stereoscopic 4K and presented in 3D in the <a href="https://qi.ucsd.edu/services/event-spaces/">Qualcomm Institute Auditorium</a> (Video).</p>
 
-<strong>insideHPC:</strong> <a href="https://youtu.be/ZqA1WbeZ6pk"><em>Research Team Does Galactic Volume Difference Rendering at SC11</em></a> (Video)
+<p><strong>insideHPC:</strong> <a href="https://youtu.be/ZqA1WbeZ6pk"><em>Research Team Does Galactic Volume Difference Rendering at SC11</em></a> (Video)</p>
 
-<strong>insideHPC:</strong> <a href="https://youtu.be/5dOt0IaRY4U"><em>Direct Numerical Simulations of Cosmological Reionization: Field Comparison: Ionization Fraction</em></a> (Video)
+<p><strong>insideHPC:</strong> <a href="https://youtu.be/5dOt0IaRY4U"><em>Direct Numerical Simulations of Cosmological Reionization: Field Comparison: Ionization Fraction</em></a> (Video)</p>
 
-<strong>insideHPC:</strong> <a href="https://youtu.be/vL9hrmf7eps"><em>Direct Numerical Simulations of Cosmological Reionization: Field Comparison: Density</em></a> (Video)
+<p><strong>insideHPC:</strong> <a href="https://youtu.be/vL9hrmf7eps"><em>Direct Numerical Simulations of Cosmological Reionization: Field Comparison: Density</em></a> (Video)</p>
 
-<strong>insideHPC:</strong> <a href="https://youtu.be/hDh4NB31e2s"><em>Direct Numerical Simulations of Cosmological Reionizatoin: Field Comparison:Temperature</em></a> (Video)
+<p><strong>insideHPC:</strong> <a href="https://youtu.be/hDh4NB31e2s"><em>Direct Numerical Simulations of Cosmological Reionizatoin: Field Comparison:Temperature</em></a> (Video)</p>
 
-<strong>The Swiss HPC Service Provider Community:</strong> <a href="https://youtu.be/gkAn8ZhKHHw"><em>Discussion Between SDSC and Argonne About the Challenges of Visualizing Large Data Sets</em></a> (Video)
+<p><strong>The Swiss HPC Service Provider Community:</strong> <a href="https://youtu.be/gkAn8ZhKHHw"><em>Discussion Between SDSC and Argonne About the Challenges of Visualizing Large Data Sets</em></a> (Video)</p>
 
 <h3>2009</h3>
 
-<strong>Argonne MCS Feature Story</strong> <a href="https://www.anl.gov/mcs/article/stargate-demo-at-sc09-shows-how-to-keep-astrophysics-data-out-of-archival-black-holes"><em>StarGate Demo at SC09 Shows How to Keep Astrophysics Data Out of Archival Black Holes</em></a> (Article)
+<p><strong>Argonne MCS Feature Story</strong> <a href="https://www.anl.gov/mcs/article/stargate-demo-at-sc09-shows-how-to-keep-astrophysics-data-out-of-archival-black-holes"><em>StarGate Demo at SC09 Shows How to Keep Astrophysics Data Out of Archival Black Holes</em></a> (Article)</p>
 
   </div>
 
