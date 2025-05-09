@@ -52,6 +52,12 @@ Jump to:
 
 ## Publications
 
+<details>
+
+<summary>Journal Articles and Conference Proceedings</summary>
+
+
+
 ### Journal Articles
 
 **Making Common Fund data more findable: catalyzing a data ecosystem**<br>
@@ -188,6 +194,13 @@ Petascale Computing: Algorithms and Applications, Ed. D. Bader, CRC Press LLC (2
 Kritsuk, A. G., **Wagner, R.**, Norman, M. L., Padoan, P.<br>
 *ASP Conference Series*, 359, 84 (2006) [URL](https://www.aspbooks.org/a/volumes/article_details/?paper_id=3749)
 
+
+</details>
+
+## Press & Videos
+
+This is a list of blog posts and news articles about me, or that I've contributed to, and videos of my presentations, interviews, and training I've led. Overall, these are a good summary of my activities outside of astrophysics research and provide a chronology of my professional development.
+
 <!-- Accordion block -->
 <div class="accordion">
   <button class="accordion-header">
@@ -196,8 +209,6 @@ Kritsuk, A. G., **Wagner, R.**, Norman, M. L., Padoan, P.<br>
   </button>
 
   <div class="accordion-content">
-
-This is a list of blog posts and news articles about me, or that I've contributed to, and videos of my presentations, interviews, and training I've led. Overall, these are a good summary of my activities outside of astrophysics research and provide a chronology of my professional development.
 
 <h3>2025</h3>
 
