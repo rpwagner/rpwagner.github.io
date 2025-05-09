@@ -1,0 +1,44 @@
+/* --- Accordion styles --- */
+.accordion {
+  border: 1px solid #e1e4e8;
+  border-radius: 6px;
+  margin-bottom: 1rem;
+  overflow: hidden;
+}
+
+.accordion-header {
+  width: 100%;
+  text-align: left;
+  background: #f6f8fa;          /* Cayman’s light gray */
+  color: #0366d6;               /* Cayman’s link blue */
+  padding: 0.75rem 1rem;
+  font-size: 1.05rem;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.accordion-header:hover {
+  background: #eff3f6;
+}
+
+.accordion-icon {
+  transition: transform 0.25s ease;
+}
+
+.accordion.open .accordion-icon {
+  transform: rotate(180deg);
+}
+
+.accordion-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.25s ease;
+  padding: 0 1rem;
+}
+
+.accordion.open .accordion-content {
+  padding-bottom: 1rem;
+}
