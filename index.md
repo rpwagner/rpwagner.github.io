@@ -300,5 +300,3 @@ This is a list of blog posts and news articles about me, or that I've contribute
   </div>
 
 </div>
-
-<script src="{{ '/assets/js/accordion.js' | relative_url }}"></script>
