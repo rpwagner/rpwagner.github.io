@@ -129,6 +129,7 @@ Kritsuk, A. G., Norman, M. L., Padoan, P., <strong>Wagner, R.</strong><br>
 <strong>The Santa Fe Light Cone Simulation Project: I. Confusion and the WHIM in Upcoming Sunyaev-Zel'dovich Effect Surveys</strong><br>
 Hallman, E. J. , O'Shea, B. W., Burns, J. O., Norman, M. L., Harkness, R., <strong>Wagner, R.</strong><br>
 <emph>ApJ</emph>, 671, 27 (2007) <a target="_blank" href="https://doi.org/10.1086/522912">doi:10.1086/522912</a>
+</p>
 
 </div>
 </div>
