@@ -90,7 +90,6 @@ Kritsuk, A. G., <strong>Wagner, R.</strong>, Norman, M. L.<br>
 
 <p>
 <strong>Flux Correlations in Supersonic Isothermal Turbulence</strong><br>
-<p>
 <strong>Wagner, R.</strong>, Falkovich, G., Kritsuk, A. G., Norman, M. L.<br>
 <emph>JFM</emph>, 713, 482 (2012) <a target="_blank" href="https://doi.org/10.1017/jfm.2012.470">doi:10.1017/jfm.2012.470</a>
 </p>
@@ -189,7 +188,6 @@ Cianfrocco, M. A., Wong-Barnum, M., Youn, C., <strong>Wagner, R.</strong>, Lesch
 
 <p>
 <strong>User Managed Virtual Clusters in Comet</strong><br>
-<p>
 <strong>Wagner, R.</strong>, Papadopoulos, P., Mishin, D., Cooper, T., Tatineni, M., von Laszewski, G., Wang, F.<br>
 <emph>XSEDE '16</emph>, (2016) <a target="_blank" href="https://doi.org/10.1145/2949550.2949555">doi:10.1145/2949550.2949555</a>
 </p>
@@ -226,7 +224,6 @@ Lockwood, G. K., Tatineni, M., <strong>Wagner, R.</strong><br>
 
 <p>
 <strong>Using Gordon to accelerate LHC science</strong><br>
-<p>
 <strong>Wagner, R.</strong>, Tatineni, M., Hocks, E., Yoshimoto, K., Sakai, S., Norman, M. L., Bockelman, B., Sfiligoi, I., Tadel, M., Letts, J., Würthwein, F., Bauerdick, L. A.<br>
 <emph>XSEDE '13</emph>, 59, 1 (2013) <a target="_blank" href="https://doi.org/10.1145/2484762.2484834">doi:10.1145/2484762.2484834</a>
 </p>
@@ -251,7 +248,6 @@ Hereld, M., Insley, J. A., Olson, E. C., Papka, M. E., Vishwanath, V., Norman, M
 
 <p>
 <strong>A RESTful catalog for simulations</strong><br>
-<p>
 <strong>Wagner, R.</strong><br>
 <emph>Mem. Soc. Astron. Ital.</emph>, 80, 365 (2009) <a target="_blank" href="http://sait.oat.ts.astro.it/MSAIt800209/index.html">URL</a>
 </p>
@@ -264,7 +260,6 @@ Kritsuk, A. G., Padoan, P., <strong>Wagner, R.</strong>, Norman, M. L.<br>
 
 <p>
 <strong>Theory SkyNode</strong><br>
-<p>
 <strong>Wagner, R.</strong>, Norman, M.L.<br>
 <emph>ASP Conference Series</emph>, 382, 289 (2007) <a target="_blank" href="https://www.aspbooks.org/a/volumes/article_details/?paper_id=27950">URL</a>
 </p>
