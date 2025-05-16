@@ -321,6 +321,8 @@ This is a list of blog posts and news articles about me, or that I've contribute
 <h3>2025</h3>
 
 <ul>
+<li><a href="https://blog.jupyter.org/congratulations-distinguished-contributors-2504029fc5a9"><em>Congratulations, Distinguished Contributors!</em></a></li>
+
 <li><a href="https://blog.trustedci.org/2025/04/trusted-ci-member-spotlight-rick-wagner.html"><em>Trusted CI Member Spotlight: Rick Wagner</em></a></li>
 
 <li><a href="https://www.sdsc.edu/news/2025/PR20250414-jupyter.html"><em>SDSC's Rick Wagner Takes a Leading Role in Project Jupyter</em></a></li>
