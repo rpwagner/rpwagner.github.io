@@ -29,7 +29,7 @@ Leader in research cyberinfrastructure with almost 20 years of experience enabli
 | 1999-02 - 2014-12 | **IT Manager**<br>[Sterling Corporate Custom Elevator Interiors](https://www.stercorp.com)<br> National City, CA |
 | 2005-01 - 2010-01| **Graduate Student Researcher**<br>[Department of Physics](https://physics.ucsd.edu)<br>[University Of California San Diego](https://ucsd.edu)<br> La Jolla, CA |
 
-## Synergistic Activities
+## Community & Leadership Roles
 
 | Dates | Role and Organization |
 | --- | --- |
