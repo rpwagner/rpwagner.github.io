@@ -303,7 +303,7 @@ Kritsuk, A. G., <strong>Wagner, R.</strong>, Norman, M. L., Padoan, P.<br>
 </div>
 </div>
 
-## Press & Videos
+## Articles & Videos
 
 <!-- Accordion block -->
 <div class="accordion">
