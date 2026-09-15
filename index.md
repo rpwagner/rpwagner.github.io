@@ -21,7 +21,9 @@ Leader in research cyberinfrastructure with almost 20 years of experience enabli
 
 | Dates | Role and Organization |
 | --- | --- |
-| 2023-10 – Current | **[Chief Technology Officer](https://sdsc.edu/News%20Items/PR20230927_CTO_Rick_Wagner.html)**<br>[San Diego Supercomputer Center](https://www.sdsc.edu)<br>[University Of California San Diego](https://ucsd.edu)<br> La Jolla, CA |
+| 2026-02 – Current | **Directorate Technology Officer**<br>Computing, Environment and Life Sciences (CELS)<br>[Argonne National Laboratory](https://www.anl.gov)<br>Argonne, IL |
+| 2025-07 – Current | **Director of Operations**<br>[Argonne Leadership Computing Facility](https://www.alcf.anl.gov)<br>[Argonne National Laboratory](https://www.anl.gov)<br>Argonne, IL |
+| 2023-10 – 2025-06 | **[Chief Technology Officer](https://sdsc.edu/News%20Items/PR20230927_CTO_Rick_Wagner.html)**<br>[San Diego Supercomputer Center](https://www.sdsc.edu)<br>[University Of California San Diego](https://ucsd.edu)<br> La Jolla, CA |
 | 2020-05 – 2023-09 | **Principal Systems Integration Engineer**<br>[Research IT](https://research-it.ucsd.edu)<br>[University Of California San Diego](https://ucsd.edu)<br> La Jolla, CA |
 | 2016-09 - 2020-05 | **Globus Professional Services Manager**<br>[Globus](https://www.globus.org)<br>[University Of Chicago](https://www.uchicago.edu)<br> Chicago, IL |
 | 2012-06 - 2016-09 | **HPC Systems Manager**<br>[San Diego Supercomputer Center](https://www.sdsc.edu)<br>[University Of California San Diego](https://ucsd.edu)<br> La Jolla, CA |
@@ -35,6 +37,7 @@ Leader in research cyberinfrastructure with almost 20 years of experience enabli
 | --- | --- |
 | 2025-01 – Current | **Member**<br>[Project Jupyter Executive Council](https://jupyter.org/about#executive-council-members) |
 | 2025-01 – Current | **Member**<br>[Jupyter Foundation Governing Board](https://jupyter.org/governance/people.html#jupyter-foundation-governing-board) |
+| 2023-01 – 2026-09 | **Member**<br>[Project Jupyter Security Council](https://jupyter.org/security) |
 | 2022-01 – Current | **Member**<br>[InCommon Community Trust and Assurance Board](https://incommon.org/community/leadership/) |
 | 2020-01 – Current | **President**<br>Herschel Condominiums Association<br>La Jolla, CA |
 | 2023-01 – 2024-12 | **Security Representative**<br>[Project Jupyter Software Steering Council](https://jupyter.org/about#software-steering-council-members) |
@@ -64,7 +67,7 @@ Charbonneau, A. L., Brady, A., Czajkowski, K., Aluvathingal, J., Canchi, S., Car
 
 <p>
 <strong>Coordinating an operational data distribution network for CMIP6 data</strong><br>
-Petrie, R., Denvil, S., Ames, S., Levavasseur, G., Fiore, S., Allen, C., Antonio, F., Berger, K., Bretonni'ere, P.-A., Cinquini, L., Dart, E., Dwarakanath, P., Druken, K., Evans, B., Franchist ́eguy, L., Gardoll, S., Gerbier, E., Greenslade, M., Hassell, D., Iwi, A., Juckes, M., Kindermann, S., Lacinski, L., Mirto, M., Nasser, A. B., Nassisi, P., Nienhouse, E., Nikonov, S., Nuzzo, A., Richards, C., Ridzwan, S., Rixen, M., Serradell, K., Snow, K., Stephens, A., Stockhause, M., Vahlenkamp, H., <strong>Wagner, R.</strong><br>
+Petrie, R., Denvil, S., Ames, S., Levavasseur, G., Fiore, S., Allen, C., Antonio, F., Berger, K., Bretonni'ere, P.-A., Cinquini, L., Dart, E., Dwarakanath, P., Druken, K., Evans, B., Franchist ́eguy, L., Gardoll, S., Gerbier, E., Greenslade, M., Hassell, D., Iwi, A., Juckes, M., Kindermann, S., Lacinski, L., Mirto, M., Nasser, A. B., Nassisi, P., Nienhouse, E., Nikonov, S., Nuzzo, S., Richards, C., Ridzwan, S., Rixen, M., Serradell, K., Snow, K., Stephens, A., Stockhause, M., Vahlenkamp, H., <strong>Wagner, R.</strong><br>
 <em>Geoscientific Model Development</em>, 14, 629–644 (2021)<br>
 <a target="_blank" href="https://doi.org/10.5194/gmd-14-629-2021">doi:10.5194/gmd-14-629-2021</a>
 </p>
@@ -176,7 +179,7 @@ Ananthakrishnan, R., Chard, K., D'Arcy, M., Kesselman, C., Foster, I., McCollam,
 
 <p>
 <strong>Petrel: A Programmatically Accessible Research Data Service</strong><br>
-Allcock, W. E., Allen, B. S., Ananthakrishnan, R., Blaiszik, B., Chard, K., Chard, R., Foster, I., Lacinski, L., Papka, M. E., <strong>Wagner, R.</strong><br>
+Allcock, W. E., Allen, B. S., Ananthakrishnan, R., Blaiszik, B., Chard, K., Chard, R., Foster, I., Lacinski, L., Papka, M. E., <strong>Wagner, R.</strong>, Chard, K., Foster, I.<br>
 <em>PEARC '19</em>, 49, 1 (2019)<br>
 <a target="_blank" href="https://doi.org/10.1145/3332186.3332241">doi:10.1145/3332186.3332241</a>
 </p>
